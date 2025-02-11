@@ -1,0 +1,5102 @@
+DICIONÁRIO DE FUNDAMENTOS
+ELEMENTARES DA MATEMÁTICA
+(PORTUGUÊS E TÉTUM)
+
+DISIONÁRIU BA FUNDAMENTU
+ELEMENTÁR SIRA MATEMÁTIKA NIAN
+(PORTUGÉS NO TETUN)
+
+LEONARDO MENEZES MELO
+BERNARDINO DE CASTRO
+1ª Edição
+1ª Edisaun
+
+LEONARDO MENEZES MELO
+BERNARDINO DE CASTRO
+
+DICIONÁRIO DE FUNDAMENTOS
+ELEMENTARES DA MATEMÁTICA
+(PORTUGUÊS E TÉTUM)
+
+DISIONÁRIU BA FUNDAMENTU
+ELEMENTÁR SIRA MATEMÁTIKA
+NIAN
+(PORTUGÉS NO TETUN)
+
+1ª Edição
+1ª Edisaun
+
+Florianópolis
+Edição do autor
+2016
+
+Capa: Leonardo Menezes Melo
+Imagens da capa e miolo: Leonardo Menezes Melo
+
+Melo, Leonardo Menezes
+Dicionário de fundamentos elementares da Matemática (Português e Tétum) =
+Disionáriu ba fundamentu elementár sira Matemátika nian (Portugés no Tetun)
+Leonardo Menezes Melo, Bernardino de Castro – 1 ed. – Florianópolis: Edição
+do autor, 2016.
+129 p.
+ISBN: 978-85-920874-0-1
+1. Matemática 2. Português 3. Tétum 4. Dicionário
+
+Todos os direitos reservados.
+
+1ª edição – 2016
+
+Contato / Kontaktu:
+Leonardo Menezes Melo - leonardommelo@hotmail.com
+Bernardino de Castro - castropahamutu7283@gmail.com
+
+BIOGRAFIA DOS AUTORES
+LEONARDO MENEZES MELO
+Leonardo Menezes Melo nasceu em São Paulo-SP, é licenciado em
+Matemática pela Universidade de Sorocaba (2008), tecnólogo em Projetos Mecânicos
+pela Faculdade de Tecnologia do Estado de São Paulo (2011) e mestre em Engenharia
+Mecânica pela Universidade Federal de Santa Catarina (2015). Em 2013/2 e 2014/1 foi
+bolsista docente da cooperação brasileira pelo Programa de Qualificação de Docentes e
+Ensino de Língua Portuguesa em Timor-Leste – PQLP / CAPES, atuando na
+Universidade Nacional de Timor-Leste (UNTL), nos departamentos de Matemática e
+Engenharia Mecânica.
+
+BERNARDINO DE CASTRO
+Bernardino de Castro nasceu em Lautem-Iliomar, é licenciado em Matemática
+da Educação pela Universidade Nacional de Timor-Leste (2008). Desde 2008
+desenvolve atividades sobre etnomatemática em Timor-Leste na Organização das
+Nações Unidas para a Educação, a Ciência e a Cultura – UNESCO. É professor no
+departamento de Matemática da UNTL, e também atua como formador de Matemática
+no grupo “Sentru Estuda Siénsia no Matemátika” – SESIM.
+
+AUTÓR SIRA-NIA BIOGRAFIA
+LEONARDO MENEZES MELO
+Leonardo Menezes Melo moris iha São Paulo-SP, lisensiadu iha Matemátika
+hosi Universidade de Sorocaba (2008), teknólogu iha Projetu Mekániku hosi
+Faculdade de Tecnologia do Estado de São Paulo (2011) no mestre iha Enjeñaria
+Mekánika hosi Universidade Federal de Santa Catarina (2015). Iha 2013/2 no 2014/1
+hanesan bolsista dosente Kooperasaun brasileira ba Programa Kualifikasaun Dosente
+sira no Ensinu Lian Portugés iha Timor-Lorosa’e – PQLP / CAPES, hala’o knaar ne’e
+iha Universidade Nasionál Timor Lorosa’e (UNTL), iha departamentu sira Matemátika
+no Enjeñaria Mekánika.
+
+BERNARDINO DE CASTRO
+Bernardino de Castro moris iha Lautem-Iliomar, lisensiadu iha Matemátika
+Edukasaun nian hosi Universidade Nasionál Timor Lorosa’e (2008). Horikedas tinan
+2008 haburas atividade sira kona-ba etnomatemátika iha Timor Lorosa’e iha
+Organizasaun Nasoins Unidas nian ba Edukasaun, Siénsia no Kultura – UNESCO.
+Profesór iha departamentu Matemátika UNTL nian, no hala’o mós knaar nu’udar
+formadór Matemátika nian iha grupu “Sentru Estuda Siénsia no Matemátika” – SESIM.
+
+AGRADECIMENTOS
+A concretização deste trabalho foi possível graças ao apoio, a confiança e a
+colaboração direta e indireta de algumas pessoas e instituições. Por isso, fazemos
+questão de registrar nossos sinceros agradecimentos:
+À família do professor Leonardo Menezes Melo, em especial aos pais, Leôncio
+Gomes Melo e Maria do Socorro Menezes Melo, e à esposa Gabriela Lopes Batista.
+À família do professor Bernardino de Castro, principalmente aos pais, Camilo de
+Castro e Berta Feliz, e à esposa Ângela da Cruz Soares.
+Ao departamento de Matemática da Universidade Nacional de Timor-Leste e
+seus professores: Venâncio Lopes, Alfredo Pinto, Lorenço Aparício Guterres e Rafael
+Sávio.
+Ao professor André Ogliari do departamento de Engenharia Mecânica da
+Universidade Federal de Santa Catarina (UFSC).
+Aos companheiros que foram os revisores deste trabalho: Hérica Aparecida
+Jorge da Cunha Pinheiro e Marcelo Maria Pinto Nunes.
+Aos estudantes da UNTL que cursaram a disciplina de introdução à geometria
+plana no 1º semestre de 2014.
+Ao Programa de Qualificação de Docentes e Ensino de Língua Portuguesa no
+Timor- Leste – PQLP.
+À Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES.
+
+LEONARDO MENEZES MELO
+BERNARDINO DE CASTRO
+
+AGRADESIMENTU
+Traballu ida-ne’e bele to’o nia rohan tanba hetan apoiu, konfiansa no tulun-lisuk
+hamutuk ho direta ka indireta hosi ema no instituisaun sira balu. Tanba ne’e, ami tenke
+hakerek ami-nia agradesimentu ho laran-moos:
+Ba profesór Leonardo Menezes Melo nia família, liuliu ba nia inan-aman,
+Leôncio Gomes Melo no Maria do Socorro Menezes Melo, no ba nia feen Gabriela
+Lopes Batista.
+Ba profesór Bernardino de Castro nia família, liuliu ba nia inan-aman, Camilo de
+Castro no Berta Feliz, no ba nia feen Ângela da Cruz Soares.
+Ba departamentu Matemátika Universidade Nasionál Timor Lorosa’e nian no nia
+profesór sira: Venâncio Lopes, Alfredo Pinto, Lorenço Aparício Guterres e Rafael
+Sávio.
+Ba profesór André Ogliari departamentu Enjeñaria Mekánika Universidade
+Federal de Santa Catarina (UFSC) nian.
+Ba maluk sira-ne’ebe sai revizór ba traballu ida-ne’e: Hérica Aparecida Jorge da
+Cunha Pinheiro e Marcelo Maria Pinto Nunes.
+Ba estudante sira UNTL sira-ne’ebé tuir dixiplina introdusaun ba jeometria
+plana iha 1º semestre 2014.
+Ba Programa Kualifikasaun Dosente sira no Ensinu Lian Portugés iha TimorLorosa’e – PQLP.
+Ba Koordenasaun Aperfeisoamentu ba pesoál no Nível Superiór – CAPES.
+
+BERNARDINO DE CASTRO
+LEONARDO MENEZES MELO
+
+APRESENTAÇÃO
+O mundo da Matemática é repleto de definições e conceitos simples e
+complexos, e, assim como em toda profissão, as pessoas que estão envolvidas com
+esse universo possuem vocabulários próprios e particulares que muitas vezes não
+são compreendidos por quem não esteja familiarizado. De tal modo, mesmo em
+países com culturas distintas, a exemplo do Brasil e Timor-Leste, a Matemática
+também possui expressões e termos peculiares que necessitam ser desvelados.
+A ideia de criação de um dicionário de Matemática que possuísse definições em
+Português e Tétum surgiu inicialmente do professor Leonardo Menezes Melo que em
+contato com outros professores do departamento de Matemática da Universidade
+Nacional de Timor-Leste, e ao acompanhar o processo de ensino-aprendizagem em suas
+aulas de Geometria Analítica II na UNTL, observou a necessidade em aprender
+minimamente o Tétum, fator que além de auxiliar e facilitar a aproximação, também
+demonstra respeito mútuo entre aluno e professor. Tal observação apontou motivos para
+a idealização deste dicionário, como os seguintes:
+
+
+Maior Compreensão entre os envolvidos;
+
+
+
+Consolidação da relação Português-Tétum;
+
+
+
+Auxílio a professores estrangeiros;
+
+
+
+Pouca quantidade de material em Tétum.
+Esses motivos resultaram no projeto em que então o professor Leonardo
+
+convidou o professor timorense Bernardino que prontamente aceitou o convite para
+trabalharem juntos, seu trabalho foi de extrema importância, sobretudo no que diz
+respeito à correlação do Português com o Tétum.
+O “Dicionário de Fundamentos Elementares da Matemática – Português e
+Tétum” possui 240 definições de palavras utilizadas na Matemática, escritas em
+
+Português e em Tétum. Várias definições são acompanhadas por imagens
+(ilustrações) e/ou exemplos, para melhor compreensão da situação definida.
+Ao envolver o Português e o Tétum este dicionário indica caminhos que vão
+além dos saberes matemáticos, e tange muitas possibilidades. O procedimento da
+consulta, da procura de dados, de informação, aguça a curiosidade e desperta a vontade
+de conhecer, de saber, o que proporciona autonomia e contribui para a formação do
+pensamento, de atitudes críticas e colaborativas com a sociedade.
+
+APREZENTASAUN
+Matemátika nia horikle’u ne’e nakonu ho definisaun no konseitu simples no
+kompleksu sira, no, nune’e mós iha profisaun hotu-hotu, ema sira ne’ebé envolve
+iha horikle’un ida-ne’e iha vokabuláriu kasik no particulár sira ne’ebé dala barak
+halo ema sira-ne’ebé seidauk toman la komprende. Tanba ne’e, maske iha rain sirane’ebé no kultura la hanesan, nu’udar ezemplu Brazil no Timor Lorosa’e,
+Matemátika mós iha expresaun no termu pekuliár sira ne’ebé presiza haree -hetan.
+Hanorin kona-ba hamosu disionáriu Matemátika ne’ebé iha definisaun iha
+Portugés no Tetun uluk nanain profesór Leonardo Menezes Melo maka ko’alia ho
+profesór sira seluk departamentu Matemátika Universidade Nasionál Timor
+Lorosa’e nian, no hodi akompaña prosesu ensinu-aprendizajen ba ninia aula sira
+Jeometria Analítica II iha UNTL, nia lehat katak presiza aprende Tetun uitoan, fatór
+ida-ne’ebé la’ós de’it tulun no fasilita hakbesik ba malu, maibé mós hatudu respeitu
+ba malu hosi alunu no profesór. Lalehat ida-ne’e hatudu motivu sira hodi hamosu
+disionáriu, hanesan tuirmai:
+
+
+Sira-ne’ebé envolve komprende barak liu;
+
+
+
+Hanetin relasaun Portugés-Tetun;
+
+
+
+Tulun profesór estranjeiru sira;
+
+
+
+Materiál iha Tetun uitoan de’it.
+Motivu sira-ne’e maka hamosu projetu ne’ebé profesór Leonardo konvida
+
+profesór timoroan Bernardino ne’ebé simu kedas ho linan-rua hodi servisu hamutuk,
+ninia servisu ne’e importánsia tebetebes, liuliu kona-ba korrelasaun Portugés ho Tetun.
+“Disionáriu ba Fundamentu Elementár sira Matemátika nian – Portugés no
+Tetun” iha liafuan definisaun 240 ne’ebé utiliza iha Matemátika, hakerek iha Portugés
+
+no Tetun. Definisaun oioin mak akompaña hori imajen (ilustrasaun) no/ka ezemplu sira,
+atu compreende didilak ba situasaun ne’ebé define tiha.
+Hamata Portugés no Tetun ba disionáriu ida-ne’e hatuduk dalan ne’ebé liután
+hosi sabér sira Matemátika nian, no hetan posibilidade barak. Prosedimentu ba konsulta,
+buka dadus, informasaun, ne’e kadi kuriozidade no tanu hakaran atu koñese, hatene
+katak proporsiona autonomia no kontribui formasaun pensamentu nian, atitude krítika
+no tulun-lisuk hamutuk ho sosiedade.
+
+SUMÁRIO
+Abscissa (Absisa) ........................................................................................................................ 21
+Acutângulo (Akutángulu)............................................................................................................ 21
+Adição (Adisaun / Tau Tan) ........................................................................................................ 22
+Adjacente (Adjasente) ................................................................................................................. 22
+Álgebra (Áljebra) ........................................................................................................................ 22
+Altura (Aas) ................................................................................................................................. 23
+Ângulo (Sikun) ............................................................................................................................ 23
+Ângulo Agudo (Sikun Agudu) .................................................................................................... 24
+Ângulo Complementar (Sikun Komplementár) .......................................................................... 24
+Ângulo Obtuso (Sikun Obtuzu)................................................................................................... 24
+Ângulo Reto (Sikun Siku) ........................................................................................................... 25
+Ângulo Suplementar (Sikun Suplementár) ................................................................................. 25
+Antecedente (Mosu Uluk) ........................................................................................................... 26
+Apótema Da Pirâmide (Apótema Pirámide Nian) ....................................................................... 26
+Aproximação (Aprosimasaun) .................................................................................................... 26
+Arco (Arku) ................................................................................................................................. 27
+Área (Área).................................................................................................................................. 27
+Aresta (Aresta) ............................................................................................................................ 30
+Aritmética (Aritmétika) ............................................................................................................... 30
+Axioma (Aksioma) ...................................................................................................................... 31
+Baricentro (Barisentru)................................................................................................................ 31
+Base (Baze) ................................................................................................................................. 33
+Binômio (Binómiu) ..................................................................................................................... 33
+Bissetriz de um Ângulo (Bisetriz Hosi Sikun Ida) ...................................................................... 33
+Cálculo (Kálkulu / Sura) ............................................................................................................. 34
+Cateto (Katetu) ............................................................................................................................ 34
+Cateto Adjacente (Katetu Adjasente) .......................................................................................... 34
+Cateto Oposto (Katetu Opostu) ................................................................................................... 35
+Cilindro (Silindru) ....................................................................................................................... 35
+Círculo (Sírkulu) ......................................................................................................................... 36
+Circunferência (Sirkunferénsia) .................................................................................................. 36
+Coeficiente (Koefisiente) ............................................................................................................ 37
+Colineares (Kolinear Sira) ........................................................................................................... 37
+
+Combinação (Kombinasaun) ....................................................................................................... 38
+Comparar (Komparar) ................................................................................................................. 38
+Comprimento (Naruk) ................................................................................................................. 38
+Cone (Kone) ................................................................................................................................ 38
+Conjunto (Konjuntu / Lubun) ...................................................................................................... 39
+Contra-Exemplo (Kontra-Ezemplu) ............................................................................................ 39
+Coordenadas (Koordenada Sira) ................................................................................................. 39
+Corda (Korda) ............................................................................................................................. 40
+Co-Secante (Ko-Sekante) ............................................................................................................ 40
+Coseno (Kosenu) ......................................................................................................................... 41
+Cubo (Kubu)................................................................................................................................ 42
+Dados (Dadus) ............................................................................................................................. 42
+Decimal (Desimál) ...................................................................................................................... 43
+Decomposição (Dekompozisaun) ............................................................................................... 43
+Definição (Definisaun) ................................................................................................................ 44
+Denominador (Denominadór) ..................................................................................................... 44
+Derivada (Derivada) .................................................................................................................... 44
+Desigualdade (Desigualdade) ...................................................................................................... 45
+Desvio Médio (Desviu Médiu) .................................................................................................... 45
+Determinante (Determinante) ...................................................................................................... 46
+Diagonal (Diagonál) .................................................................................................................... 47
+Diâmetro (Diámetru) ................................................................................................................... 47
+Diferença (Diferensa) .................................................................................................................. 48
+Dimensão (Dimensaun) ............................................................................................................... 48
+Dividendo (Dividendu) ............................................................................................................... 48
+Divisão (Divizaun, Hafahe)......................................................................................................... 49
+Divisibilidade (Divizibilidade) .................................................................................................... 50
+Divisor (Divizór) ......................................................................................................................... 53
+Domínio (Domíniu) ..................................................................................................................... 53
+Eixo (Eixu) .................................................................................................................................. 54
+Elemento (Elementu) .................................................................................................................. 54
+Eliminar os Parênteses (Halakon Parénteze Sira) ....................................................................... 55
+Elípse (Elípse) ............................................................................................................................. 55
+Equação (Ekuasaun) .................................................................................................................... 56
+
+Equiângulo (Ekiángulu) .............................................................................................................. 56
+Equidistante (Ekidistante) ........................................................................................................... 57
+Equilátero (Ekiláteru) .................................................................................................................. 57
+Esfera (Esfera) ............................................................................................................................. 57
+Exato (Ezatu) ............................................................................................................................... 58
+Expoente (Espoente) ................................................................................................................... 58
+Expressão (Espressaun) ............................................................................................................... 58
+Fator (Fatór) ................................................................................................................................ 59
+Fator Primo (Fatór Primu) ........................................................................................................... 59
+Finito (Finitu) .............................................................................................................................. 59
+Fórmula (Fórmula) ...................................................................................................................... 59
+Fração (Frasaun).......................................................................................................................... 60
+Frequência (Frekuénsia) .............................................................................................................. 61
+Função (Funsaun) ........................................................................................................................ 62
+Geometria (Jeometria) ................................................................................................................. 62
+Geometria Analítica (Jeometria Analítika) ................................................................................. 62
+Geometria do Espaço ou Geometria Espacial (Jeometria Espasu) .............................................. 62
+Geometria Métrica Não Euclidiana (Jeometria Métrika La’os Euclidiana) ................................ 62
+Gometria Plana (Jeometria Plana) ............................................................................................... 63
+Geratriz (Jeratris) ........................................................................................................................ 63
+Gráfico (Gráfiku) ........................................................................................................................ 63
+Grandeza (Grandeza)................................................................................................................... 63
+Grau (Grau) ................................................................................................................................. 64
+Hexaedro (Eksaedru) ................................................................................................................... 64
+Hipérbole (Ipérbole) .................................................................................................................... 64
+Hipotenusa (Ipotenuza) ............................................................................................................... 65
+Horizontal (Orizontál) ................................................................................................................. 65
+Idêntico (Idéntiku) ....................................................................................................................... 66
+Identidade (Identidade) ............................................................................................................... 66
+Igual ou Iguais (Hanesan ka Hanesan-Sira) ................................................................................ 66
+Imagem (Imajen) ......................................................................................................................... 66
+Ímpar (Ímpar ka La-Pár) ............................................................................................................. 68
+Inclusão (Inkluzaun) .................................................................................................................... 68
+Incógnita (Inkógnita) ................................................................................................................... 68
+
+Índice (Índise) ............................................................................................................................. 68
+Inequação (Inekuasaun)............................................................................................................... 69
+Inequação do 1º grau (Inekuasaun 1º grau nian) ......................................................................... 69
+Inequação do 2º grau (Inekuasaun 2º grau nian) ......................................................................... 69
+Infinito (Infinitu / Rohan-Laek) .................................................................................................. 70
+Inscrito (Inskritu) ........................................................................................................................ 70
+Integral (Integrál) ........................................................................................................................ 70
+Intervalo Aberto (Intervalu Nakloke) .......................................................................................... 70
+Intervalo de Números Reais (Intervalu ba Númeru Real Sira).................................................... 71
+Intervalo Fechado (Intervalu Naktaka) ....................................................................................... 71
+Inverso (Inversu) ......................................................................................................................... 72
+Juros Simples (Jurus Simples)..................................................................................................... 72
+Juros Compostos (Jurus Kompostu) ............................................................................................ 73
+Lado (Sorin / Ladu) ..................................................................................................................... 73
+Largura (Luan) ............................................................................................................................ 73
+Limite (Limite) ............................................................................................................................ 74
+Linear (Lineár) ............................................................................................................................ 74
+Linha (Liña) ................................................................................................................................ 74
+Lógica (Lójika)............................................................................................................................ 74
+Losango (Lozangu) ..................................................................................................................... 74
+Maior (Boot Liu) ......................................................................................................................... 75
+Maior Divisor Comum –M.D.C. (Divizór / Hafahe Komun Boot liu) ........................................ 75
+Matemática (Matemátika) ........................................................................................................... 76
+Matriz (Matrís) ............................................................................................................................ 77
+Máximo Divisor Comum – M.D.C. (Másimu Divizór Komun) ................................................. 77
+Média (Média) ............................................................................................................................. 77
+Mediana (Klaran/ Mediana) ........................................................................................................ 78
+Menor (Ki´ik Liu) ....................................................................................................................... 78
+Menor Múltiplo Comum – M.M.C. (Múltiplu Komun Ki’ik Liu) .............................................. 78
+Metro (Metru).............................................................................................................................. 79
+Metro Cúbico (Metru Kúbiku) .................................................................................................... 79
+Metro por Segundo (Metru pur Segundu) ................................................................................... 80
+Mínimo Múltiplo Comum – M.M.C. (Mínimu Múltiplu Komun) .............................................. 80
+Minuendo (Minuendu) ................................................................................................................ 80
+
+Módulo (Módulu) ........................................................................................................................ 81
+Monômio (Monómiu).................................................................................................................. 81
+Multiplicação (Multiplikasaun / Dala) ........................................................................................ 81
+Múltiplo (Múltiplu) ..................................................................................................................... 81
+Numeral (Numerál) ..................................................................................................................... 81
+Número (Númeru) ....................................................................................................................... 82
+Números Arábicos (Númeru Arábiku Sira)................................................................................. 82
+Número Cardinal (Númeru Kardinál) ......................................................................................... 82
+Números Complexos (Númeru Kompleksu Sira) ....................................................................... 84
+Número Decimal (Númeru Desimál) .......................................................................................... 84
+Números Imaginários (Númeru Imajináriu Sira) ........................................................................ 84
+Números Inteiros (Númeru Inteiru Sira) ..................................................................................... 84
+Números Irracionais (Númeru Irrasionál Sira) ............................................................................ 85
+Números Naturais (Númeru Naturál Sira)................................................................................... 85
+Números Ordinais (Númeru Ordinál Sira) .................................................................................. 85
+Número Pi (Númeru Pi) .............................................................................................................. 87
+Números Primos (Númeru Primu Sira) ....................................................................................... 87
+Números Primos entre Si (Númeru Primu entre Sira) ................................................................. 87
+Números Racionais (Númeru Rasionál Sira) .............................................................................. 88
+Números Reais (Númeru Reál Sira) ............................................................................................ 88
+Números Romanos (Númeru Romanu Sira) ............................................................................... 89
+Oblíquo (Oblíkuu) ....................................................................................................................... 89
+Ordem (Orden) ............................................................................................................................ 90
+Ordenada (Ordenada) .................................................................................................................. 90
+Origem (Orijen) ........................................................................................................................... 91
+Ortogonal (Ortogonál) ................................................................................................................. 91
+Par Ordenado (Par Ordenadu) ..................................................................................................... 91
+Parábola (Parábola) ..................................................................................................................... 92
+Paralelepípedo (Paralelepípedu) .................................................................................................. 92
+Paralelo (Paralelu) ....................................................................................................................... 93
+Paralelogramo (Paralelogramu) ................................................................................................... 93
+Parcelas (Parsela Sira) ................................................................................................................. 94
+Pentágono (Pentágonu) ............................................................................................................... 94
+Percentagem (Persentajen) .......................................................................................................... 94
+
+Perímetro (Perímetru / Hale’u) .................................................................................................... 95
+Permutação (Permutasaun) .......................................................................................................... 95
+Perpendicular (Perpendikulár)..................................................................................................... 95
+Pirâmide (Pirámide) .................................................................................................................... 96
+Plano (Planu) ............................................................................................................................... 96
+Poliedro (Poliedru) ...................................................................................................................... 96
+Polígono (Polígonu) .................................................................................................................... 96
+Polinômio (Polinómiu) ................................................................................................................ 97
+Ponto (Pontu) .............................................................................................................................. 97
+Porcentagem (Porsentajen) .......................................................................................................... 98
+Postulado (Postuladu).................................................................................................................. 98
+Potência (Poténsia) ...................................................................................................................... 98
+Primos (Primu Sira)..................................................................................................................... 98
+Prisma (Prizma) ........................................................................................................................... 98
+Probabilidade (Probabilidade) ..................................................................................................... 99
+Problema (Problema) .................................................................................................................. 99
+Produto (Produtu) ........................................................................................................................ 99
+Produto Cartesiano (Produtu Kartezianu) ................................................................................. 100
+Produtos Notáveis (Produtu Notavel Sira) ................................................................................ 100
+Progressão Aritmética (Progresaun Aritmétika) ....................................................................... 101
+Progressão Geométrica (Progresaun Jeométrika)...................................................................... 102
+Proporção (Proporsaun)............................................................................................................. 103
+Propriedade Associativa (Propriedade Asosiativa) ................................................................... 103
+Propriedade Comutativa (Propriedade Komutativa) ................................................................. 104
+Propriedade do Elemento Neutro (Propriedade Elementu Neutru Nian) .................................. 105
+Propriedade do Fechamento (Propriedade Naktaka Nian) ........................................................ 105
+Prova (Prova) ............................................................................................................................ 106
+Quadrado (Kuadradu)................................................................................................................ 106
+Quadrantes (Kuadrante Sira) ..................................................................................................... 107
+Quadriláteros (Kuadriláteru Sira) .............................................................................................. 108
+Quilograma (Kilograma) ........................................................................................................... 108
+Quilômetro (Kilómetru) ............................................................................................................ 108
+Quociente (Kosiente) ................................................................................................................ 108
+Radiano (Radianu) .................................................................................................................... 109
+
+Radiciação (Radisiasaun) .......................................................................................................... 109
+Raio (Raiu) ................................................................................................................................ 109
+Raiz Quadrada (Rais Kuadradu) ............................................................................................... 110
+Razão (Razaun) ......................................................................................................................... 110
+Recíproco (Resíproku) .............................................................................................................. 111
+Regra de Sarrus (Regra Sarrus Nian) ........................................................................................ 111
+Regra de Três (Regra Tolu Nian) .............................................................................................. 111
+Regra dos Sinais (Regra Ba Sinál Sira) ..................................................................................... 112
+Resto (Restu/Resin) ................................................................................................................... 113
+Reta (Reta) ................................................................................................................................ 114
+Retângulo (Retángulu) .............................................................................................................. 114
+Secante (Sekante) ...................................................................................................................... 115
+Segmento de Reta (Segmentu Reta) .......................................................................................... 116
+Semicírculo (Semisírkulu)......................................................................................................... 116
+Semireta (Semireta) ................................................................................................................... 116
+Seno (Senu) ............................................................................................................................... 117
+Símbolo (Símbolu) .................................................................................................................... 117
+Simplificação de Radicais (Simplifikasaun hosi Radikál sira).................................................. 118
+Sinais (Sinál Sira) ...................................................................................................................... 119
+Sistema (Sistema) ...................................................................................................................... 119
+Subtração (Subtrasaun / Hasai / Kuran) .................................................................................... 119
+Subtraendo (Subtraendu / Hamenus)......................................................................................... 119
+Tangente (Tanjente) .................................................................................................................. 120
+Tangram (Tangram) .................................................................................................................. 120
+Teorema (Teorema) ................................................................................................................... 121
+Termo (Termu) .......................................................................................................................... 121
+Tetraedro (Tetraedru) ................................................................................................................ 121
+Trapézio (Trapéziu) ................................................................................................................... 121
+Triângulo (Triángulu)................................................................................................................ 122
+Trigonometria (Trigonometria) ................................................................................................. 122
+Unidade (Unidade) .................................................................................................................... 122
+Valor Absoluto (Valór Absolutu) .............................................................................................. 122
+Valor Médio (Valór Médiu) ...................................................................................................... 122
+Variável (Variavel).................................................................................................................... 122
+
+Vertical (Vertikál) ..................................................................................................................... 123
+Vértice (Vértise) ........................................................................................................................ 123
+Volume (Volume) ..................................................................................................................... 123
+Tabela de nomes Tétum – Português (Tabela hosi naran Tetun - Portugés) ............................. 124
+
+Abscissa (Absisa)
+PORTUGUÊS: Localização de um ponto em relação ao eixo horizontal x. Pode ter
+posição positiva, negativa ou nula. Exemplos: Ver em TETUN.
+TETUN: Fatin ba pontu sira-ne´ebé iha relasaun ho eixu orizontál (eixu x). Bele iha
+pozisaun pozitiva, negativa ka nula. Ezemplu sira:
+
+Figura 1- Eixo X-Y com abscissas (Eixu X-Y ho absisa)
+
+
+A (-3,0) Abscissa é igual a -3.
+
+A (-3,0) Absisa hanesan -3.
+
+
+
+B (+1,0) Abscissa é igual a +1.
+
+B (+1,0) Absisa hanesan +1.
+
+
+
+C (+3,+2) Abscissa é igual a +3.
+
+C (+3,+2) Absisa hanesan +3.
+
+
+
+D (-3,-2) Abscissa é igual a –3.
+
+D (-3,-2) Absisa hanesan –3.
+
+Acutângulo (Akutángulu)
+PORTUGUÊS: Figura geométrica com ângulos agudos ou ângulos menores que 90º
+(noventa graus). Exemplo: Triângulo acutângulo.
+TETUN: Figura jeométrika ho sikun sira agudu ka sikun sira ki´ik liu hosi 900 (grau
+sianulu). Ezemplu: Triángulu Akutángulu.
+
+21
+
+Figura 2 - Triângulo Acutângulo (Triángulu Akutángulu)
+
+Adição (Adisaun / Tau Tan)
+PORTUGUÊS: Operação matemática com o objetivo de obter a soma. Constituí-se de
+parcelas e soma.
+𝑃𝐴𝑅𝐶𝐸𝐿𝐴 + 𝑃𝐴𝑅𝐶𝐸𝐿𝐴 = 𝑆𝑂𝑀𝐴
+TETUN: Operasaun matemátika ho objetivu atu hetan soma (sura). Ne’ebé iha parsela
+no soma (sura).
+𝑃𝐴𝑅𝑆𝐸𝐿𝐴 + 𝑃𝐴𝑅𝑆𝐸𝐿𝐴 = 𝑆𝑂𝑀𝐴
+
+Adjacente (Adjasente)
+PORTUGUÊS: Significa que está ao lado de, vizinho.
+TETUN: Katak ne´ebé iha sorin, besik malu.
+
+Álgebra (Áljebra)
+PORTUGUÊS: Parte da Matemática que utiliza letras no lugar dos números.
+TETUN: Parte ida hosi Matemátika ne’ebé utiliza letra sira iha númeru sira nia fatin.
+
+22
+
+Altura (Aas)
+PORTUGUÊS: Distância que se tem da base ao lado ou vértice oposto. Essa distância é
+medida de forma perpendicular. Exemplos: Ver em TETUN.
+TETUN: Distánsia ne´ebé hosi baze ba sorin ka vértise opostu. Distánsia ne´ebé maka
+medida hosi forma perpendikulár. Ezemplu sira:
+
+Figura 3 - Representação da altura (Representasaun aas)
+
+Ângulo (Sikun)
+PORTUGUÊS: Surge através da união de duas semi-retas que tem a mesma origem.
+Símbolo: 𝐴Ô𝐵, Ô, 𝛼
+TETUN: Mosu hosi semi-reta rua hamutuk ne´ebé iha orijen hanesan.
+Símbolu: 𝐴Ô𝐵, Ô, 𝛼
+
+Figura 4 - Ângulo (Sikun)
+
+23
+
+Ângulo Agudo (Sikun Agudu)
+PORTUGUÊS: Ângulo com valor menor que 90º (grau noventa). Exemplo: Ver em
+TETUN.
+TETUN: Sikun ho valór ki´ik liu hosi 90º (grau sianulu). Ezemplu:
+
+Figura 5 - Ângulo Agudo (Sikun Agudu)
+
+Ângulo Complementar (Sikun Komplementár)
+PORTUGUÊS: Ângulo cuja soma com outro é igual a 90º (noventa graus). Exemplo:
+Ver em TETUN.
+TETUN: Sikun ne´ebé tau tan sikun seluk hanesan 900 (grau sianulu). Ezemplu:
+𝛼 + 30º = 90º → 𝛼 = 60º
+Ângulo Complementar igual a 60º (sessenta graus).
+Sikun Komplementár hanesan 60º (grau neenulu).
+Figura 6 - Ângulo Complementar (Sikun Komplementár)
+
+Ângulo Obtuso (Sikun Obtuzu)
+PORTUGUÊS: Ângulo com valor maior que 90º (noventa graus). Exemplo: Ver em
+TETUN.
+TETUN: Sikun ho valór boot liu 90 º (grau sianulu). Ezemplu:
+24
+
+Figura 7 - Ângulo Obtuso (Sikun Obtuzu)
+
+Ângulo Reto (Sikun Siku)
+PORTUGUÊS: Ângulo com valor igual à 90º (noventa graus). Exemplo: Ver em
+TETUN.
+TETUN: Sikun ho valór hanesan 90 º (grau sianulu). Ezemplu:
+
+Figura 8 - Ângulo Reto (Sikun Siku)
+
+Ângulo Suplementar (Sikun Suplementár)
+PORTUGUÊS: Ângulo cuja soma com outro é igual a 180º (cento e oitenta graus).
+Exemplo: Ver em TETUN.
+TETUN: Sikun ne´ebé tau tan sikun seluk hanesan 1800 (grau Atus ida ualunulu).
+Ezemplu:
+
+Figura 9 - Ângulo Suplementar (Sikun Suplementár)
+𝛼 + 30º = 180º → 𝛼 = 150º
+Ângulo Suplementar igual a 150º (cento e cinquenta graus).
+Sikun Suplementár hanesan 150º (grau atus ida limanulu).
+25
+
+Antecedente (Mosu Uluk)
+PORTUGUÊS: É o primeiro de dois termos, ou seja, o que vem antes do outro.
+Exemplo: 0,1,2,3 . O 0 (zero) é antecedente do 1 (um), o 1 (um) é antecedente do 2
+(dois).
+TETUN: Maka ida-ne’ebé dahuluk hosi termu rua, katak, ida-ne’ebé mosu uluk ida
+seluk.
+Ezemplu: 0,1,2,3 . O 0 (zero) mak mosu uluk 1 (ida), o 1 (ida) mak mosu uluk 2 (rua).
+
+Apótema Da Pirâmide (Apótema Pirámide Nian)
+PORTUGUÊS: É a altura de qualquer triângulo da pirâmide.
+TETUN: Mak aas hosi triángulu sasá de’it pirámide nian.
+
+̅̅̅̅ = Apótema da pirâmide (Apótema Pirámide nian)
+𝐴𝐵
+
+Figura 10 - Apótema da pirâmide (Apótema Pirámide nian)
+
+Aproximação (Aprosimasaun)
+PORTUGUÊS: Resultado próximo do verdadeiro. Exemplo: A altura da casa sagrada é
+de 9,02 m; por aproximação e com menor precisão pode-se dizer 9 m.
+TETUN: Rezultadu ne’ebé atu besik loos. Ezemplu: Uma lulik nia aas mak 9,02 m, halo
+aprosimasaun (besik liu) no presiza halo ki’ik liu bele dehan 9 m.
+
+26
+
+Arco (Arku)
+PORTUGUÊS: Parte da circunferência entre dois pontos.
+TETUN: Parte ida hosi sirkunferénsia ba pontu rua.
+
+̂ = Arco (Arku)
+𝐴𝐵
+
+Figura 11 - Arco (Arku)
+
+Área (Área)
+PORTUGUÊS: Quantidade de superfície. Veja a seguir em algumas figuras:
+Tabela 1 – Cálculo da área.
+NOME
+
+Círculo
+
+FIGURA
+
+CÁLCULO DA ÁREA
+
+𝑆 = 𝜋. 𝑅 2
+
+𝑆 = 𝜋. 𝑅 2 − 𝜋. 𝑟 2 ↔
+Coroa Circular
+𝑆 = 𝜋(𝑅 2 − 𝑟 2 )
+
+Losango
+
+𝑆=
+
+𝐷. 𝑑
+2
+
+27
+
+Paralelogramo
+
+𝑆 = 𝑏. ℎ
+
+Quadrado
+
+𝑆 = 𝑙. 𝑙 ↔ 𝑆 = 𝑙 2
+
+Retângulo
+
+𝑆 = 𝑐. ℎ
+
+Setor Circular
+
+𝜋. 𝑅 2 . 𝛼º
+𝑆=
+360º
+
+Trapézio
+
+Triângulo Retângulo
+
+𝑆=
+
+𝐵+𝑏
+.ℎ
+2
+
+𝑆=
+
+𝑏𝑥ℎ
+2
+
+TETUN: Kuantidade superfise nian. Haree iha figura balu tuirmai:
+
+28
+
+Tabela 2 – Kálkulo Área nian.
+NARAN
+
+FIGURA
+
+KÁLKULA ÁREA
+NIAN
+
+Sírkulu
+
+𝑆 = 𝜋. 𝑅 2
+
+𝑆 = 𝜋. 𝑅 2 − 𝜋. 𝑟 2 ↔
+Leun
+𝑆 = 𝜋(𝑅 2 − 𝑟 2 )
+
+Lozangu
+
+𝑆=
+
+𝐷. 𝑑
+2
+
+Paralelogramu
+
+𝑆 = 𝑏. ℎ
+
+Kuadradu
+
+𝑆 = 𝑙. 𝑙 ↔ 𝑆 = 𝑙 2
+
+Retángulu
+
+𝑆 = 𝑐. ℎ
+
+29
+
+Setór Sírkulu
+
+𝑆=
+
+𝜋. 𝑅 2 . 𝛼º
+360º
+
+Trapéziu
+
+𝑆=
+
+𝐵+𝑏
+.ℎ
+2
+
+Triángulu Retángulu
+
+𝑆=
+
+𝑏𝑥ℎ
+2
+
+Aresta (Aresta)
+PORTUGUÊS: É o encontro de dois planos.
+TETUN: Maka planu rua ne’ebé hasoru malu.
+
+Figura 12 – Aresta (Aresta)
+
+Aritmética (Aritmétika)
+PORTUGUÊS: Parte da Matemática que estuda os números naturais.
+TETUN: Parte ida hosi Matemátika ne´ebé estuda númeru naturál sira.
+30
+
+Axioma (Aksioma)
+PORTUGUÊS: Verdade aceita sem demonstração.
+TETUN: Simu loloos la-ho demonstrasaun (hatudu).
+
+Baricentro (Barisentru)
+PORTUGUÊS: Também conhecido como centro de gravidade (C.G.), é o ponto onde a
+figura fica em equilíbrio. Veja a seguir em algumas figuras:
+
+NOME
+
+Tabela 3 – Baricentro
+FIGURA
+
+Círculo
+
+Losango
+
+Quadrado
+
+Retângulo
+
+Triângulo
+
+31
+
+TETUN: Bele hanaran mós hanesan pontu gravidade (pontu ne´ebé figura hatuur
+equilíbriu). Haree iha figura balu tuirmai:
+Tabela 4 – Barisentru
+NARAN
+FIGURA
+
+Sírkulu
+
+Lozangu
+
+Kuadradu
+
+Retángulu
+
+Triángulu
+
+32
+
+Base (Baze)
+PORTUGUÊS: Na geometria é o lado inferior de uma figura. Na potência é o valor que
+irá se repetir. Exemplos: Ver em TETUN.
+TETUN: Iha jeometria maka sorin inferiór
+(okos liu) hosi figura. Iha poténsia maka
+valór ne´ebé mosu dala-barak. Ezemplu
+sira:
+23 = 2 . 2 . 2 = 8
+2 (dois) é a base.
+2 (rua) maka baze.
+Figura 13 – Exemplo de Base (Ezemplu baze)
+
+Binômio (Binómiu)
+PORTUGUÊS: Expressão que tem dois termos. Exemplos: 𝑥 + 𝑦 , −4𝑥 + 2, 𝑎5 − 𝑏.
+TETUN: Espresaun ne´ebé iha termu (naran) rua. Ezemplu sira: 𝑥 + 𝑦 , −4𝑥 +
+2, 𝑎5 − 𝑏.
+
+Bissetriz de um Ângulo (Bisetriz Hosi Sikun Ida)
+PORTUGUÊS: Semi-reta que divide o ângulo em dois ângulos
+congruentes.
+TETUN: Semi-reta ne´ebé fahe sikun ba sikun kongruente rua.
+
+33
+
+𝐴𝑂̂𝐵 = 𝐵𝑂̂𝐶
+
+Figura 14 – Bissetriz de um ângulo (Bisetriz hosi sikun ida)
+
+Cálculo (Kálkulu / Sura)
+PORTUGUÊS: Parte da Matemática durante a resolução de problemas.
+TETUN: Parte ida hosi Matemátika ne´ebe halo rezolusaun ba problema sira.
+
+Cateto (Katetu)
+PORTUGUÊS: No triângulo retângulo, são os dois lados que formam ângulo de 90º
+(noventa graus).
+TETUN: Iha triángulu retángulu, mak ladu rua ne’ebé forma sikun 90º(grau sianulu).
+
+Figura 15 – Representação do Cateto (Representasaun hosi Katetu)
+
+Cateto Adjacente (Katetu Adjasente)
+PORTUGUÊS: É o lado próximo do ângulo.
+TETUN: Maka sorin ne’ebé besik sikun.
+
+34
+
+Figura 16 – Representação do Cateto Adjacente (Representasaun hosi Katetu Adjasente)
+
+Cateto Oposto (Katetu Opostu)
+PORTUGUÊS: É o lado que está na frente do ângulo.
+TETUN: Maka sorin ne’ebé iha sikun nia oin.
+
+Figura 17 – Representação do Cateto Oposto (Representasaun hosi Katetu Opostu)
+
+Cilindro (Silindru)
+PORTUGUÊS: Sólido com origem na rotação completa de um retângulo em torno do
+eixo.
+TETUN: Sólidu ho orijen iha rotasaun kompleta hosi retángulu ida ba nia eixu.
+
+35
+
+Figura 18 – Cilindro (Silindru)
+
+Círculo (Sírkulu)
+PORTUGUÊS: Plano ou parte de um plano que tem limite na circunferência. Possui:
+Circunferência, raio, diâmetro e pontos no seu interior.
+TETUN: Planu ka parte ida hosi planu ne´ebe iha limite iha sirkunferénsia. Iha:
+sirkunferénsia, raiu, diámetru no pontu sira iha laran.
+
+R = Raio (Raiu)
+D = Diâmetro (Diámetru)
+
+Figura 19 – Círculo (Sírkulu)
+
+Circunferência (Sirkunferénsia)
+PORTUGUÊS: É o limite do círculo. Qualquer ponto da circunferência está
+equidistante do centro do circulo.
+TETUN: Maka limite sírkulu nian. Naran pontu sirkunferénsia ida ne’ebé iha distánsia
+hanesan ba sírkulu nia klaran (sentru).
+
+36
+
+Coeficiente (Koefisiente)
+PORTUGUÊS: Representa um valor fixo que pode aparecer como número ou letra.
+TETUN: Reprezenta valór fiksu ida ne´ebé bele mosu hanesan númeru ka letra.
+
+Colineares (Kolinear Sira)
+PORTUGUÊS: Quando três ou mais pontos (ou segmentos de reta) pertencem a mesma
+reta. Exemplos: Ver em TETUN.
+TETUN: Bainhira pontu (ka segmentu sira hosi reta) tolu ka liu iha reta (linha) hanesan.
+Ezemplu sira:
+Exemplo1: (Ezemplu 1:)
+
+Figura 20 – Eixo com 3 pontos (Eixu ho pontu tolu)
+Ponto A, B e C são colineares.
+Pontu A, B e C maka kolinear sira.
+Exemplo2: (Ezemplu 2:)
+
+Figura 21 – Eixo com 4 pontos (Eixu ho pontu haat)
+Segmentos ̅̅̅̅
+𝐴𝐵 𝑒 ̅̅̅̅
+𝐶𝐷 são colineares.
+̅̅̅̅𝑒 𝐶𝐷
+̅̅̅̅ maka colinear sira.
+Segmentu 𝐴𝐵
+
+37
+
+Combinação (Kombinasaun)
+PORTUGUÊS: Quantidade de associações que podem ser feitas.
+TETUN: Kuantidade ba assosiasaun sira-ne´ebé bele halo.
+
+Comparar (Komparar)
+PORTUGUÊS: É verificar a relação entre duas ou mais coisas.
+
+Exemplo: Dadas seguintes frações:
+
+5 1
+
+7
+
+7
+
+8 8
+
+8
+
+8
+
+, 𝑒 ; mostre a relação entre elas.
+
+5
+
+1
+
+8
+
+8
+
+> > ,
+
+pois 7 > 5 > 1 ou em números decimais: 0,875 > 0,625 > 0,125.
+TETUN: Maka verifika relasaun entre buat rua ka liu.
+5 1
+
+7
+
+8 8
+
+8
+
+Ezemplu: Fó frasaun sira tuirmai: , 𝑒 ; hatudu relasaun entre sira.
+
+7
+8
+
+5
+
+1
+
+8
+
+8
+
+> > , hafoin 7 > 5 > 1 ka iha númeru desimál sira: 0,875 > 0,625 > 0,125
+
+Comprimento (Naruk)
+PORTUGUÊS: Distância de um ponto inicial a um ponto final.
+TETUN: Distánsia hosi pontu hahún to´o pontu ikus nian.
+
+Cone (Kone)
+PORTUGUÊS: Sólido obtido pela rotação em 360º (trezentos e sessenta graus) do
+triângulo retângulo, em que um dos seus catetos é o eixo de rotação.
+TETUN: Sólidu ne’ebé hetan ho nakdulas iha 360º (grau atus tolu neenulu) hosi
+triángulu retángulu, ne´ebé ida hosi nia katetu sira maka sai eixu nakdulas.
+38
+
+Figura 22 – Cone (Kone)
+
+Conjunto (Konjuntu / Lubun)
+PORTUGUÊS: Agrupamento, coleção de uma determinada coisa.
+TETUN: Halo grupu (lubun), kolesaun ba buat ruma.
+
+Contra-Exemplo (Kontra-Ezemplu)
+PORTUGUÊS: Demostração que prova que a afirmação não é verdadeira.
+TETUN: Demonstrasaun ne’ebé prova katak afirmasaun ne’e la loos.
+
+Coordenadas (Koordenada Sira)
+PORTUGUÊS: Possui duas linhas retas, chamadas de eixo, que se cruzam de forma
+perpendicular. O ponto de encontro dessas retas é chamado de ponto de origem.
+TETUN: Iha liña reta rua, hanaran eixu, ne´ebé cruza ho forma perpendikulár. Hosi
+pontu hasoru-malu ba reta sira ne´e maka hanaran pontu orijen.
+
+39
+
+Figura 23 – Coordenadas (Koordenada sira)
+
+Corda (Korda)
+PORTUGUÊS: Segmento que possui início e fim em dois pontos de uma
+circunferência. A maior corda de uma circunferência é o diâmetro.
+TETUN: Segmentu ne’ebé iha inísiu (hahun) no fin (rohan) iha pontu rua hosi
+sirkunferénsia. Korda iha sirkunferénsia ida-ne’ebé boot liu maka diámetru.
+
+Figura 24 – Corda (Korda)
+
+Co-Secante (Ko-Sekante)
+PORTUGUÊS: Relação da hipotenusa com o cateto oposto.
+TETUN: Relasaun kona-ba ipotenuza ho katetu opostu.
+
+40
+
+Figura 25 – Triângulo Retângulo (Triángulu Retángulu)
+
+𝐶𝑜 − 𝑆𝑒𝑐𝑎𝑛𝑡𝑒 =
+
+𝐻𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎
+𝐶𝑎𝑡𝑒𝑡𝑜 𝑜𝑝𝑜𝑠𝑡𝑜
+
+𝐾𝑜 − 𝑆𝑒𝑘𝑎𝑛𝑡𝑒 =
+
+→ 𝐶𝑜 − 𝑆𝑒𝑐𝑎𝑛𝑡𝑒 𝛼 =
+
+𝑐
+𝑎
+
+𝐼𝑝𝑜𝑡𝑒𝑛𝑢𝑧𝑎
+𝑐
+→ 𝐾𝑜 − 𝑆𝑒𝑘𝑎𝑛𝑡𝑒 𝛼 =
+𝐾𝑎𝑡𝑒𝑡𝑢 𝑜𝑝𝑜𝑠𝑡𝑢
+𝑎
+
+Coseno (Kosenu)
+PORTUGUÊS: Relação do cateto adjacente com a hipotenusa.
+TETUN: Relasaun kona-ba katetu adjasente ho ipotenuza.
+
+Figura 26 – Triângulo Retângulo (Triángulu Retángulu)
+
+𝐶𝑜𝑠𝑒𝑛𝑜 =
+
+𝐶𝑎𝑡𝑒𝑡𝑜 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡𝑒
+𝑏
+→ 𝐶𝑜𝑠 𝛼 =
+𝐻𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎
+𝑐
+
+𝐶𝑜𝑠𝑒𝑛𝑜 =
+
+𝐾𝑎𝑡𝑒𝑡𝑢 𝐴𝑑𝑗𝑎𝑠𝑒𝑛𝑡𝑒
+𝑏
+→ 𝐶𝑜𝑠 𝛼 =
+𝐼𝑝𝑜𝑡𝑒𝑛𝑢𝑧𝑎
+𝑐
+
+41
+
+Cubo (Kubu)
+PORTUGUÊS: Sólido formado por 6 (seis) faces iguais. Tem-se: 12 (doze) arestas, 8
+(oito) vértices e 6 (seis) faces.
+TETUN: Sólidu ne’ebé iha fase 6 (neen) hanesan. Iha: aresta 12 (sanulu resin rua),
+vértise 8 (ualu) no fase 6 (neen).
+
+Figura 27 – Cubo (Kubu)
+
+Dados (Dadus)
+PORTUGUÊS: Informações fornecidas para resolver um problema. Apresentadas de
+duas maneiras:
+1ª) Informações que se conhece;
+2ª) Informações que se pede (pergunta).
+TETUN : Informasaun ne´ebé fó atu rezolve problema ruma. Aprezenta ho maneira rua:
+1ª) Informasaun sira ne´ebé hatene (kuñese);
+2ª) informasaun sira ne´ebé bele husu ka pergunta.
+
+42
+
+Decimal (Desimál)
+PORTUGUÊS: Número que tem no denominador potência inteira e positiva de 10
+(dez). O número decimal não é apresentado em forma de fração. Exemplos:
+Tabela 5 – Exemplo de número decimal
+Número em forma de fração Número decimal
+
+2
+10
+
+0,2
+
+725
+1000
+
+0,725
+
+TETUN: Número ne´ebé iha denominadór poténsia inteira no pozitiva hosi 10 (sanulu).
+Númeru desimál la’os hatu
+du iha forma frasaun. Ezemplu sira:
+Tabela 6 – Ezemplu hosi número decimál
+Númeru forma iha frasaun
+Número Desimál
+
+2
+10
+
+0,2
+
+725
+1000
+
+0,725
+
+Decomposição (Dekompozisaun)
+PORTUGUÊS: É modificar o todo para os seus componentes. Exemplo: Decomposição
+do número 24 (vinte e quatro) em fatores primos.
+
+43
+
+TETUN: Maka modifika hotu-hotu ba nia komponente. Ezemplu: Dekompozisaun hosi
+númeru 24 (ruanulu-resin-haat) ba fatór primu sira.
+
+24 2
+12 2
+6 || 2
+3 3
+̅̅̅̅
+1 24
+
+24 = 2 𝑥 2 𝑥 2 𝑥 3 = 23 𝑥 3
+
+Definição (Definisaun)
+PORTUGUÊS: Descrição das propriedades que caracterizam algo.
+TETUN: Deskrisaun ba propriedade sira ne´ebe karakteriza buat ruma.
+
+Denominador (Denominadór)
+PORTUGUÊS: Valor que está sob o traço de uma fração. Exemplo:
+3
+8
+
+O denominador é 8 (oito).
+
+TETUN: Valór ne´ebe iha trasu okos hosi frasaun ruma. Ezemplu:
+3
+8
+
+O denominadór mak 8 (ualu).
+
+Derivada (Derivada)
+PORTUGUÊS: De forma geral, representa a taxa de variação de uma função.
+Representação de derivada: 𝑓 ′ (𝑥) 𝑜𝑢
+
+𝑑𝑓
+𝑑𝑥
+
+𝑜𝑢 𝐷𝑓(𝑥)
+
+TETUN: Forma jerál, reprezenta taxa variasaun hosi funsaun ida.
+Reprezentasaun hosi derivada: 𝑓 ′ (𝑥) 𝑜𝑢
+
+𝑑𝑓
+𝑑𝑥
+
+𝑜𝑢 𝐷𝑓(𝑥)
+44
+
+Desigualdade (Desigualdade)
+PORTUGUÊS: Significa que tem duas coisas diferentes. Símbolo ≠. Exemplo: Ver em
+TETUN.
+TETUN: Katak (Signifika) iha buat rua la-hanesan. Símbolu ≠. Ezemplu:
+
+Figura 28 – Exemplo de desigualdade (Ezemplu hosi desigualdade)
+
+Desvio Médio (Desviu Médiu)
+PORTUGUÊS: Medida de dispersão calculada após analisar um conjunto de dados.
+Exemplo: Tem-se: 12 (doze), 13 (treze) e 18(dezoito). Calcule o desvio médio:
+
+𝑀é𝑑𝑖𝑎 =
+
+12 + 15 + 18 45
+=
+= 15
+3
+3
+
+12 − 15 = −3; 15 − 15 = 0;
+
+18 − 15 = 3
+
+|−3| = 3; |0| = 0; |+3| = 3
+
+𝑑𝑚 =
+
+3+0+3 6
+= =2
+3
+3
+
+TETUN: Medida dispersaun ne’ebé kálkula tiha hafoin analisa dadus lubun (konjuntu)
+ida.
+
+45
+
+Ezemplu: Iha: 12 (sanulu-resin-rua), 13 (sanulu-resin-tolu) no 18 (sanulu-resin-ualu).
+Halo kalkula desviu médiu:
+
+𝑀é𝑑𝑖𝑎 =
+
+12 + 15 + 18 45
+=
+= 15
+3
+3
+
+12 − 15 = −3; 15 − 15 = 0;
+
+18 − 15 = 3
+
+|−3| = 3; |0| = 0; |+3| = 3
+
+𝑑𝑚 =
+
+3+0+3 6
+= =2
+3
+3
+
+Determinante (Determinante)
+PORTUGUÊS: Resultado obtido na operação realizada com matriz quadrada.
+Exemplos:
+2 4
+𝑀𝑎𝑡𝑟𝑖𝑧 𝑞𝑢𝑎𝑑𝑟𝑎𝑑𝑎 2𝑥2 = |
+| = (2.1) − (3.4) = 2 − 12 = −10
+3 1
+3
+2 1
+3
+2 1 3
+2
+𝑀𝑎𝑡𝑟𝑖𝑧 𝑞𝑢𝑎𝑑𝑟𝑎𝑑𝑎 3𝑥3 = |−2 4 0| → |−2 4 0| −2 4
+0 −1 2
+0 −1 2 0 −1
+= [(3.4.2) + (2.0.0) + (1. (−2). (−1))] − [(1.4.0) + (3.0. −1) + (2. (−2). 2)]
+= (24 + 0 + 2) − [0 + 0 + (−8)] = 26 + 8 = 34
+Observação: Matriz quadrada 3x3 foi calculada pela Regra de Sarrus.
+TETUN: Rezultadu ikus ba operasaun ne’ebé realiza tiha ho matrís kuadrada.
+2
+𝑀𝑎𝑡𝑟𝑖𝑧 𝑘𝑢𝑎𝑑𝑟𝑎𝑑𝑎 2𝑥2 = |
+3
+
+4
+| = (2.1) − (3.4) = 2 − 12 = −10
+1
+
+46
+
+3
+2
+𝑀𝑎𝑡𝑟í𝑠 𝑘𝑢𝑎𝑑𝑟𝑎𝑑𝑎 3𝑥3 = |−2 4
+0 −1
+
+1 3
+2
+0| −2 4
+2 0 −1
+
+= [(3.4.2) + (2.0.0) + (1. (−2). (−1))] − [(1.4.0) + (3.0. −1) + (2. (−2). 2)]
+= (24 + 0 + 2) − [0 + 0 + (−8)] = 26 + 8 = 34
+Observasaun: Matrís kuadrada 3x3 sura ho Regra Sarrus.
+
+Diagonal (Diagonál)
+PORTUGUÊS: Segmento de reta que une dois vértices de um polígono. Exemplo: Ver
+em TETUN.
+TETUN: Segmentu liña (reta) ne´ebé liga vértise rua hosi polígonu ida. Ezemplu:
+
+Figura 29 – Exemplo de Diagonal (Ezemplu hosi diagonál)
+
+Diâmetro (Diámetru)
+PORTUGUÊS: Segmento de reta que passa pelo centro de um círculo, tem início e fim
+na circunferência.
+TETUN : Segmentu liña (reta) ne´ebe hakat hosi klaran ba sírkulu ida, iha inísiu no ikus
+iha sirkunferénsia.
+
+47
+
+Figura 30 – Diâmetro (Diámetru)
+
+Diferença (Diferensa)
+PORTUGUÊS: Resultado da subtração. Exemplo:
+15 − 7 = 8
+𝑜𝑛𝑑𝑒 𝑜 8 (𝑜𝑖𝑡𝑜)é 𝑎 𝑑𝑖𝑓𝑒𝑟𝑒𝑛ç𝑎, 15(𝑞𝑢𝑖𝑛𝑧𝑒)é 𝑜 𝑚𝑖𝑛𝑢𝑒𝑛𝑑𝑜 𝑒 7(𝑠𝑒𝑡𝑒) é 𝑜 𝑠𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+TETUN: Resultadu subtrasaun nian. Ezemplu:
+15 − 7 = 8
+𝑛𝑒´𝑒𝑏é 8 (𝑢𝑎𝑙𝑢)𝑚𝑎𝑘𝑎 𝑑𝑖𝑓𝑒𝑟𝑒𝑛𝑠𝑎,
+15(𝑠𝑎𝑛𝑢𝑙𝑢 − 𝑟𝑒𝑠𝑖𝑛 − 𝑟𝑢𝑎) 𝑚𝑎𝑘𝑎 𝑚𝑖𝑛𝑢𝑒𝑛𝑑𝑢 𝑛𝑜 7 (ℎ𝑖𝑡𝑢)𝑚𝑎𝑘𝑎 𝑠𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢
+
+Dimensão (Dimensaun)
+PORTUGUÊS: De forma geral é o tamanho de alguma coisa.
+TETUN: Forma jerál maka tamañu hosi buat ruma.
+
+Dividendo (Dividendu)
+PORTUGUÊS: É a quantidade dividida. Exemplo: Ver em TETUN.
+TETUN: Maka kuantidade dividida (fahe). Ezemplu:
+48
+
+Dividendo é o 13 (treze).
+Dividendu maka 13 (sanulu-resin-tolu).
+
+Divisão (Divizaun, Hafahe)
+PORTUGUÊS: Operação matemática que verifica quantas vezes uma quantidade está
+contida na outra. Na divisão temos: dividendo (D), divisor (d),
+quociente (q) e resto (r). Na qual: D=d x q + r.
+
+Observações:
+
+
+Se o resto for zero a solução é exata;
+
+
+
+Se o resto for diferente de zero, a solução é inexata;
+
+
+
+Não é possível dividir um número por zero.
+
+TETUN: Operasaun Matemátika ne´ebé verifika kuantidade dala hira iha ida seluk.
+Divizaun iha: dividendu (D), divizór (d), kosiente (q) no restu (r). Ne´ebé ho
+Símbolu/fórmula: D=d x q + r.
+
+Observasaun sira:
+
+
+Se restu hanesan zero solusaun mak ezata/ númeru tomak;
+
+
+
+Se restu la-hasenan zero, solusaun mak inezata/ numeru la-tomak;
+
+
+
+Labele fahe númeru ho zero.
+49
+
+Divisibilidade (Divizibilidade)
+PORTUGUÊS: Regras / critérios para verificar se um número é divisível pelo outro. A
+seguir, algumas regras:
+Tabela 7 – Algumas regras de divisibilidade
+DIVISIBILIDADE
+CONDIÇÃO
+EXEMPLOS
+POR...
+
+NECESSÁRIA
+Se o número for
+
+2
+
+8, 12, 20, 254...
+par.
+Se a soma dos
+
+3
+
+algarismos for
+
+75, pois 7+5=12 e 12 é divisível por 3.
+
+divisível por 3.
+Se os dois últimos
+4
+
+algarismos forem
+
+3036, pois 36 é divisível por 4.
+
+divisíveis por 4.
+Se o número
+5
+
+termina com 0 ou
+
+40, 65, 105, 12320...
+
+5.
+Se for divisível por
+6
+
+48, pois é divisível por 2 e por 3.
+2e3.
+Se a subtração
+154, pois 4x2=8 e 15-8=7 e 7 é
+entre o dobro do
+divisível por 7.
+último algarismo e
+
+7
+o número formado
+231, pois 1x2=2 e 23-2=21 e 21 é
+pelos outros for
+divisível por 7.
+divisível por 7.
+
+50
+
+Se os três últimos
+8
+
+algarismos forem
+
+12544, pois 544 é divisível por 8.
+
+divisíveis por 8.
+Se a soma dos
+4050, pois 4+0+5+0=9 e 9 é divisível
+9
+
+algarismos for
+por 9.
+divisível por 9.
+
+10
+
+Se termina com 0.
+
+350, 12500, 60...
+
+Coloque os sinais
+10538, pois 1-0+5-3+8=11 e 11 é
+de – e + entre os
+divisível por 11.
+algarismos, e
+11
+verifique se o
+90915, pois 9-0+9-1+5=22 e 22 é
+resultado é
+divisível por 11.
+múltiplo de 11.
+Se termina em 00,
+25
+
+10025, 35475, 12350...
+25, 50 ou 75.
+
+TETUN: Regra / kritériu sira atu verifika se númeru ida bele fahe ho seluk. Regra balun
+tuirmai ne´e:
+Tabela 8 – Regra balun hosi divizibilidade
+DIVIZIBILIDADE
+KONDISAUN
+EZEMPLU SIRA
+HO...
+
+PRESIZA
+Bainhira númeru
+
+2
+
+8, 12, 20, 254...
+par.
+
+3
+
+Se soma algarizmu
+
+75, nune´e 7+5=12 no 12 bele fahe ho 3.
+
+51
+
+sira bele fahe ho 3.
+Se algarizmu rua
+4
+
+3036, nune´e 36 bele fahe ho 4.
+ikus bele fahe ho 4.
+Se númeru ikus ho
+
+5
+
+40, 65, 105, 12320...
+0 ka 5.
+Se bele fahe ho 2
+
+6
+
+48, nune´e bele fahe ho 2 no 3.
+no 3.
+
+7
+
+Se subtrasaun entre
+
+154, nune´e 4x2=8 no 15-8=7 no 7 bele
+
+algarizmu ikus dala
+
+fahe ho 7.
+
+rua no númeru
+forma hosi seluk
+
+231, nune´e 1x2=2 no 23-2=21 e 21
+
+bele fahe ho 7.
+
+bele fahe ho 7.
+
+Se algarizmu tolu
+8
+
+12544, nune´e 544 bele fahe ho 8.
+ikus bele fahe ho 8.
+Se soma algarizmu
+
+4050, nune´e 4+0+5+0=9 no 9 bele
+
+sira bele fahe ho 9.
+
+fahe ho 9.
+
+9
+
+Se numeru ikus ho
+10
+
+350, 12500, 60...
+0.
+
+11
+
+Tau sinál sira – no
+
+10538, nune´e 1-0+5-3+8=11 e 11 bele
+
++ entre algarizmu
+
+fahe ho 11.
+
+sira, no verifika se
+rezultadu múltiplu
+11.
+
+90915, nune´e 9-0+9-1+5=22 no 22
+bele fahe ho 11.
+
+Se numeru rua ikus
+25
+
+10025, 35475, 12350...
+ho 00, 25, 50 ka 75.
+
+52
+
+Divisor (Divizór)
+PORTUGUÊS: Quantidade que divide. Exemplo: Ver em TETUN
+TETUN: Kuantidade ne´ebé fahe. Ezemplu:
+Divisor é o 2 (dois).
+Divizór maka 2 (rua).
+
+Domínio (Domíniu)
+PORTUGUÊS: Condição para existir a função. Representa todos os elementos de um
+conjunto. Representação: D(f). Exemplo:
+
+Figura 31 – Representação das meninas e dos meninos
+Na função do namoro:
+Flaviana namora Florindo, Maria namora Nicodemos e Ana namora Januário. Justriano
+não tem namorada.
+Domínio da função D(f) = A, ou seja, D(f) = {Flaviana, Maria e Ana}.
+TETUN: Kondisaun atu iha funsaun. Reprezenta elementu sira hotu-hotu hosi konjuntu
+ida. Reprezentasaun: D(f). Ezemplu:
+
+53
+
+Figura 32 – Reprezentasaun feto foin-sa’e no mane foin-sa’e sira
+Iha Funsaun namora nian:
+Flaviana namora Florindo, Maria namora Nicodemos e Ana namora Januário. Justriano
+la iha namorada.
+Domíniu funsaun nian D(f) = A, ne’e katak, D(f) = {Flaviana, Maria e Ana}.
+
+Eixo (Eixu)
+PORTUGUÊS: É uma reta que tem sentido e origem.
+TETUN: maka reta ne’ebé iha sentidu no orijen.
+
+Elemento (Elementu)
+PORTUGUÊS: Uma parte de um todo. Exemplos:
+1) Dado o conjunto N = {0,1,2,3,4,5...} . 2 é um elemento.
+2) Dado os dias da semana: domingo, segunda, terça, quarta, quinta, sexta e
+sábado. Terça é um elemento dos dias da semana.
+TETUN: Parte ida hosi buat tomak. Ezemplu sira:
+1) Dadu konjuntu N = {0,1,2,3,4,5...} . 2 mak elementu ida.
+
+54
+
+2) Dadu ba loron sira semana nian: domingu, segunda, tersa, kuarta, kuinta, sesta
+no sábadu. Tersa mak elementu ida hosi loron sira semana nian.
+
+Eliminar os Parênteses (Halakon Parénteze Sira)
+PORTUGUÊS: Tem-se uma regra para eliminar os parênteses. Se o sinal antecessor dos
+parênteses for “ + ” conserva-se os sinais dos elementos, que estão dentro deles, todavia
+se o sinal antecessor dos parênteses for “ - ” altera-se os sinais dos elementos, que estão
+dentro deles, quem for “ + ” vira “ - ” e quem for “ - ” vira “ + ”. Exemplos: Ver em
+TETUN.
+TETUN: Iha regra ida atu halakon parénteze sira. Se sinál antesesór ba parénteze sira ho
+“ + ” kontinua sinál sira ba elementu, ne´ebé iha nia laran, nune´e se sinál antesesór ba
+paréntize sira ho “ - ” troka sinál sira ba elementu, ne´ebé iha nia laran. Ne´ebé iha “ + ”
+troka ba “ - ” no nomos “ - ” troka ba “ + ”. Ezemplu sira:
+𝐸𝑥. 1: 15 + (−10) = 15 − 10 = 5
+𝐸𝑥. 2: 18 − (−12) = 18 + 12 = 30
+𝐸𝑥. 3: 4 + (−5 + 10) = 4 − 5 + 10 = 9
+𝐸𝑥. 4: 7 − (−3 + 5) = 7 + 3 − 5 = 5
+
+Elípse (Elípse)
+PORTUGUÊS: Resultante do corte de um cone (esse corte não pode ser paralelo e nem
+perpendicular ao eixo).
+TETUN: Maka resulta hosi tesi kone ida (tesi ida-ne´e la bele sai paralelu no
+perpendikulár ba eixu).
+55
+
+Figura 33 – Elípse (Elípse)
+
+Equação (Ekuasaun)
+PORTUGUÊS: Sentença em que os termos são separados pelo sinal de igual ( = ).
+Existe também o 1º e o 2º membro.
+Ex.:𝑎𝑥 + 𝑏 = 0
+
+𝑂𝑛𝑑𝑒 𝑎𝑥 + 𝑏 é 𝑜 1º 𝑚𝑒𝑚𝑏𝑟𝑜
+
+𝑒
+
+0 é 𝑜 2º 𝑚𝑒𝑚𝑏𝑟𝑜
+
+TETUN: Sentensa ne´ebé haketak termu sira hosi sinál hanesan (=). Iha mós 1º no 2º
+membru.
+Ex.:𝑎𝑥 + 𝑏 = 0
+
+𝑛𝑒´𝑒𝑏é 𝑎𝑥 + 𝑏 𝑚𝑎𝑘𝑎 1º 𝑚𝑒𝑚𝑏𝑟𝑢 𝑛𝑜 0 𝑚𝑎𝑘𝑎 2º 𝑚𝑒𝑚𝑏𝑟𝑢
+
+Equiângulo (Ekiángulu)
+PORTUGUÊS: Figura com todos os ângulos iguais. Exemplo: Ver em TETUN.
+TETUN: Figura ho sikun hotu-hotu hanesan. Ezemplu:
+
+Figura 34 – Figura com todos os ângulos iguais (Figura ho sikun hotu-hotu hanesan)
+
+56
+
+Equidistante (Ekidistante)
+PORTUGUÊS: Tem a mesma distância em relação a um referencial.
+TETUN: Iha distánsia hanesan ho referensiál ida.
+
+Equilátero (Ekiláteru)
+PORTUGUÊS: Figura com os lados iguais. Exemplos: Triângulo Equilátero.
+TETUN: Figura ho sorin sira hanesan. Ezemplu: Triángulu ekuiláteru.
+
+Figura 35 – Figura com todos os lados iguais (Figura ho sorin hotu-hotu hanesan)
+
+Esfera (Esfera)
+PORTUGUÊS: Sólido obtido pela rotação em 360º (trezentos e sessenta graus) de um
+semicírculo em torno do diâmetro.
+TETUN: Sólidu ne´ebé mosu rotasaun 360º (grau atus tolu neenulu) hosi semisírkulu
+hale’u nia diámetru.
+
+57
+
+Figura 36 – Esfera (Esfera)
+
+Exato (Ezatu)
+PORTUGUÊS: Resultado preciso.
+TETUN: Rezultadu (Hetan) presizu.
+
+Expoente (Espoente)
+PORTUGUÊS: Valor localizado à direita e acima do outro número, indica a quantidade
+que o outro irá aparecer. Exemplo:
+42 = 4.4 = 16
+
+Nesse caso, 2 (dois) é o expoente.
+
+TETUN: Valór ne´ebé tau ba númeru seluk iha (liman) loos no leten, hatudu kuantidade
+ne´ebé ida seluk atu mosu. Ezemplu:
+42 = 4.4 = 16
+
+kazu ida ne´e, 2 (rua) mak espoente.
+
+Expressão (Espressaun)
+PORTUGUÊS: Números e letras unidos por sinais. Exemplo:
+13𝑥 + 20𝑦 − 5
+TETUN: Númeru no letra sira hamutuk ho sinál sira. Ezemplu:
+13𝑥 + 20𝑦 − 5
+58
+
+Fator (Fatór)
+PORTUGUÊS: Um dos termos da operação de multiplicação.
+TETUN: Termu ida hosi operasaun multiplikasaun (dala) nian.
+
+Fator Primo (Fatór Primu)
+PORTUGUÊS: São os números primos que ao se multiplicarem é o valor do número
+inicial. Exemplo:
+60 = 2 𝑥 2 𝑥 3 𝑥 5 = 22 𝑥 3 𝑥 5
+TETUN: Maka númeru primu sira-ne´ebé bainhira multiplika hetan valór númeru
+dahuluk. Ezemplu:
+60 = 2 𝑥 2 𝑥 3 𝑥 5 = 22 𝑥 3 𝑥 5
+
+Finito (Finitu)
+PORTUGUÊS: Que tem fim.
+TETUN: Ne´ebé iha ikus (rohan).
+
+Fórmula (Fórmula)
+PORTUGUÊS: Expressão que foi definida e permite resolver situação, problema e(ou)
+exercício.
+TETUN: Espressaun ne´ebé define tiha no bele halo rezolve situsaun, problema no(ka)
+ezersísiu.
+
+59
+
+Fração (Frasaun)
+PORTUGUÊS: Representação da divisão de duas partes, ou quando o todo é dividido
+em um número de partes.
+𝑁𝑢𝑚𝑒𝑟𝑎𝑑𝑜𝑟
+𝐷𝑒𝑛𝑜𝑚𝑖𝑛𝑎𝑑𝑜𝑟
+Exemplos:
+Tabela 9 – Exemplos de Frações
+
+1
+2
+
+Um meio
+
+1
+3
+
+Um terço
+
+1
+4
+
+Um quarto
+
+1
+5
+
+Um quinto
+
+1
+6
+
+Um sexto
+
+1
+7
+
+Um sétimo
+
+1
+8
+
+Um oitavo
+
+1
+9
+
+Um nono
+
+1
+10
+
+Um décimo
+
+1
+100
+
+Um centésimo
+
+TETUN: Reprezentasaun divizaun (hafahe) nian hosi parte rua, ka bainhira hotu-hotu
+fahe ba númeru hosi parte ida.
+
+60
+
+𝑁𝑢𝑚𝑒𝑟𝑎𝑑ó𝑟
+𝐷𝑒𝑛𝑜𝑚𝑖𝑛𝑎𝑑ó𝑟
+Ezemplu sira:
+Tabela 10 – Ezemplu hosi frasaun
+
+1
+2
+
+Balun ida
+
+1
+3
+
+Katoluk ida
+
+1
+4
+
+Kahaat ida
+
+1
+5
+
+Kalimak ida
+
+1
+6
+
+Kaneen ida
+
+1
+7
+
+Kahituk ida
+
+1
+8
+
+Kaualuk ida
+
+1
+9
+
+Kasiak ida
+
+1
+10
+
+Kasanuluk ida
+
+1
+100
+
+Kahatus ida
+
+Frequência (Frekuénsia)
+PORTUGUÊS: É o número de vezes que há repetição.
+TETUN: Maka númeru dala nian ne´ebé iha repetisaun (fila-fila).
+
+61
+
+Função (Funsaun)
+PORTUGUÊS: Representa a relação entre o que está sendo estudado.
+TETUN: Reprezenta relasaun entre saida mak estuda hela.
+
+Geometria (Jeometria)
+PORTUGUÊS: Parte da Matemática que estuda as figuras e os sólidos no espaço.
+TETUN: Parte ida hosi Matemátika ne’ebé estuda figura no solidu sira iha espasu.
+
+Geometria Analítica (Jeometria Analítika)
+PORTUGUÊS: Parte da geometria que faz tratamento analítico.
+TETUN: Parte ida hosi jeometria ne’ebé halo tratamentu analítiku.
+
+Geometria do Espaço ou Geometria Espacial (Jeometria Espasu)
+PORTUGUÊS: Parte da geometria que estuda situações em três dimensões.
+TETUN: Parte ida hosi jeometria ne’ebé estuda situasaun sira iha dimensaun tolu.
+
+Geometria Métrica Não Euclidiana (Jeometria Métrika La’os
+Euclidiana)
+PORTUGUÊS: Caracteriza-se por axiomas diferentes da geometria clássica ou
+euclidiana.
+TETUN: Karakteriza liuhosi aksioma sira ne’ebé la hanesan jeometria klásika ka
+euclidiana.
+
+62
+
+Gometria Plana (Jeometria Plana)
+PORTUGUÊS: Parte da geometria que estuda situações em duas dimensões.
+TETUN: Parte ida hosi jeometria ne’ebé estuda situasaun sira iha dimensaun rua.
+
+Geratriz (Jeratris)
+PORTUGUÊS: É todo segmento de reta que quando se desloca (movimenta) no espaço
+forma figuras geométricas. Exemplos: Ver em TETUN
+TETUN: Maka segmentu reta hotu-hotu ne’ebé bainhira book-an (movimentu) espasu
+forma figura jeometrika sira. Ezemplu sira:
+
+Figura 37 – Representação de Geratriz do Cilindro e do Cone
+(Reprezentasaun Jeratris hosi Silindru no Kone nian)
+
+Gráfico (Gráfiku)
+PORTUGUÊS: É a representação de uma determinada situação.
+TETUN: Maka reprezentasaun hosi situasaun ida.
+
+Grandeza (Grandeza)
+PORTUGUÊS: O que se pode aumentar ou diminuir.
+TETUN: Ne’ebé bele aumenta (tau tan) ka diminui (hasai).
+63
+
+Grau (Grau)
+PORTUGUÊS: Unidade de medida utilizada para medir ângulos. O círculo é dividido
+em 360º (trezentos e sessenta graus).
+TETUN: Unidade sasukat ne´ebé utiliza hodi sukat sikun sira. Sírkulu maka hafahe iha
+360º (grau atus tolu neenulu).
+
+Hexaedro (Eksaedru)
+PORTUGUÊS: Também conhecido como cubo.
+TETUN: Kuñesidu mós hanesan kubu.
+
+Figura 38 – Hexaedro (Eksaedru)
+
+Hipérbole (Ipérbole)
+PORTUGUÊS: Lugar geométrico resultante do corte de um cone por um plano paralelo
+ao eixo do cone.
+TETUN: Fatin jeométriku ne’ebé mosu hosi tesi ka ko’a kone sai planu paralelu ida iha
+eixu kone nian.
+
+64
+
+Figura 39 – Representação do corte do cone com um plano paralelo ao eixo
+(Reprezentasaun tesi ka ko’a kone nian ho planu ida paralela ba eixu)
+
+Hipotenusa (Ipotenuza)
+PORTUGUÊS: No triângulo retângulo, é o lado oposto do ângulo de 90º (noventa
+graus).
+TETUN: Iha triángulu retángulu, maka ladu (sorin) opostu hosi sikun 90º (grau sianulu).
+
+Figura 40 – Representação da hipotenusa (Reprezentasaun ipotenuza nian)
+
+Horizontal (Orizontál)
+PORTUGUÊS: Linha imaginária paralela ao horizonte.
+TETUN: Liña imajinária paralela ho orizonte (tesik).
+
+65
+
+Idêntico (Idéntiku)
+PORTUGUÊS: Quando o que está sendo analisado é totalmente igual.
+TETUN: Bainhira ida ne’ebé haree hela maka hanesan hotu-hotu.
+
+Identidade (Identidade)
+PORTUGUÊS: Igualdade entre dois membros, independente dos valores dados às
+letras. Exemplo: Ver em TETUN.
+TETUN: Igualdade entre membru rua, la haree ba dadu valór ba letra sira.
+Ezemplu:
+𝑎(𝑏 − 𝑐) = 𝑎𝑏 − 𝑎𝑐
+
+Se a=2 ; b=3 e c=1
+
+2(3 − 1) = 2.3 − 2.1
+2(2) = 6 − 2
+4=4
+
+Igual ou Iguais (Hanesan ka Hanesan-Sira)
+PORTUGUÊS: O que tem o mesmo valor.
+TETUN: Ne´ebé iha valór hanesan.
+
+Imagem (Imajen)
+PORTUGUÊS: Representa todos os elementos de um conjunto que possui
+correspondência no domínio. Representação: Im(f). Exemplo:
+
+66
+
+Figura 41 – Representação das meninas e dos meninos
+Na função do namoro:
+Flaviana namora Florindo, Maria namora Nicodemos e Ana namora Januário. Justriano
+não tem namorada.
+Imagem da função Im(f) = {Florindo, Nicodemos e Januário}.
+TETUN: Reprezenta elementu sira hotu-hotu hosi konjuntu ida ne’ebé iha
+korrespondénsia iha domíniu. Reprezentasaun: Im(f). Ezemplu:
+
+Figura 42 – Reprezentasaun feto foin-sa’e no mane foin-sa’e sira
+
+Iha Funsaun namora nian:
+Flaviana namora Florindo, Maria namora Nicodemos e Ana namora Januário. Justriano
+la iha namorada.
+Imajen funsaun nian Im(f) = A, ne’e katak, Im(f) = {Florindo, Nicodemos e Januário}.
+67
+
+Ímpar (Ímpar ka La-Pár)
+PORTUGUÊS: Todo número que não pode ser dividido em duas partes iguais.
+TETUN: Númeru hotu-hotu ne´ebé maka la bele hafahe iha parte rua hanesan.
+
+Inclusão (Inkluzaun)
+PORTUGUÊS: É a relação existente entre conjuntos, quando todos elementos de um
+está incluso no outro. Representado pelo símbolo ⊂. Exemplo: Tem-se A={0,1,2} e
+B={-2,-1,0,1,2,3}, logo 𝐴 ⊂ 𝐵 (lê-se: A está contido em B).
+TETUN: Maka relasaun ne’ebé eziste entre konjuntu sira, bainhira elementu hotu-hotu
+iha laran iha ida seluk. Reprezenta ho símbolu ⊂. Ezemplu: iha A={0,1,2} no
+B={-2,-1,0,1,2,3}, nune´e 𝐴 ⊂ 𝐵 (lee: A kontidu iha B).
+
+Incógnita (Inkógnita)
+PORTUGUÊS: Valor que precisa ser calculado e respondido. Esse valor deve satisfazer
+a equação e expressar o resultado da situação.
+TETUN: Valór ne´ebé presiza halo kálkulu no hatán. Valór ida-ne´e tenke satisfás
+ekuasaun no fó sai rezultadu situsaun nian.
+
+Índice (Índise)
+PORTUGUÊS: Valor localizado à direita e embaixo de uma letra, usado para
+diferenciar a outra que é igual. Exemplo: X1 e X2.
+TETUN: Valór ne´ebé localiza iha letra ida nia parte loos no kraik, uza atu haketak
+seluk ne´ebé hanesan. Ezemplu: X1 no X2.
+
+68
+
+Inequação (Inekuasaun)
+PORTUGUÊS: Sentença em que os termos são separados pelo sinal que não é o de
+igual ( = ), isso indica a desigualdade existente entre eles. Os sinais utilizados são:
+> (𝑀𝑎𝑖𝑜𝑟)
+< (𝑀𝑒𝑛𝑜𝑟)
+≥ (𝑀𝑎𝑖𝑜𝑟 𝑜𝑢 𝑖𝑔𝑢𝑎𝑙)
+≤ (𝑀𝑒𝑛𝑜𝑟 𝑜𝑢 𝑖𝑔𝑢𝑎𝑙)
+TETUN: Sentensa ida ne´ebé hafahe ka haketak termu sira ho sinál ne´ebé la hanesan,
+ida-ne’e hatudu dezigualdade (la hanesan) entre sira. Sinál sira ne´ebé utiliza maka:
+> (𝐵𝑜𝑜𝑡 𝑙𝑖𝑢)
+< (𝐾𝑖 ′ 𝑖𝑘 𝑙𝑖𝑢)
+≥ (𝐵𝑜𝑜𝑡 𝑙𝑖𝑢 𝑘𝑎 ℎ𝑎𝑛𝑒𝑠𝑎𝑛)
+≤ (𝐾𝑖 ′ 𝑖𝑘 𝑙𝑖𝑢 𝑘𝑎 ℎ𝑎𝑛𝑒𝑠𝑎𝑛)
+
+Inequação do 1º grau (Inekuasaun 1º grau nian)
+PORTUGUÊS: Quando o expoente da incógnita é igual a 1. Exemplo: −3𝑥 + 12 > 27
+TETUN: Bainhira espoente inkógnita nian hanesan ho 1. Ezemplu: −3𝑥 + 12 > 27
+
+Inequação do 2º grau (Inekuasaun 2º grau nian)
+PORTUGUÊS: Quando o expoente da incógnita é igual a 2.
+Exemplo: −3𝑥 2 + 5𝑥 − 10 < 0
+69
+
+TETUN: Bainhira espoente inkógnita nian hanesan ho 2.
+Ezemplu: −3𝑥 2 + 5𝑥 − 10 < 0
+
+Infinito (Infinitu / Rohan-Laek)
+PORTUGUÊS: O que não possui fim. Símbolo: ∞
+TETUN: Ne´ebé la iha rohan. Símbolu: ∞
+
+Inscrito (Inskritu)
+PORTUGUÊS: Figura geométrica que está no interior da outra.
+TETUN: Figura jeométrika ne´ebé iha ida seluk nia laran.
+
+Integral (Integrál)
+PORTUGUÊS: Utiliza-se inicialmente para determinar a área de uma curva no plano
+cartesiano.
+
+∫ = Sinal de integral.
+TETUN: Ne’ebé utiliza ba dalauluk atu determina área hosi kurva ida ba planu
+kartezianu.
+
+∫ = Sinál hosi integrál.
+
+Intervalo Aberto (Intervalu Nakloke)
+PORTUGUÊS: Conjunto de números reais limitados por dois números, quando esses
+dois números não pertencem ao intervalo. Representação:
+
+70
+
+TETUN: Konjuntu ba númeru real sira ne’ebé hakotu ho númeru rua, bainhira númeru
+rua ne´e la pertense iha intervalu. Reprezentasaun:
+
+Intervalo de Números Reais (Intervalu ba Númeru Real Sira)
+PORTUGUÊS: Conjunto de números reais limitados por dois números.
+TETUN: Konjuntu ba númeru real sira ne’ebé hakotu ho númeru rua.
+
+Intervalo Fechado (Intervalu Naktaka)
+PORTUGUÊS: Conjunto de números reais limitados por dois números, quando esses
+dois números pertencem ao intervalo. Representação:
+
+TETUN: Konjuntu ba númeru real sira ne’ebé hakotu ho númeru rua, bainhira númeru
+rua ne´e pertense iha intervalu. Reprezentasaun.
+
+71
+
+Inverso (Inversu)
+PORTUGUÊS: Número que multiplicado por seu inverso é igual à unidade.
+
+𝑛 1
+𝑥 =1
+1 𝑛
+Exemplos: Ex.1: O inverso de 5 é
+
+Ex.2: O inverso de
+
+7
+8
+
+é
+
+8
+7
+
+, pois
+
+7
+8
+
+1
+5
+
+, pois 5 𝑥
+
+𝑥
+
+8
+7
+
+1
+5
+
+=1
+
+=1
+
+TETUN: Númeru ne´ebé multiplika ba nia inversu hanesan ho unidade.
+
+𝑛 1
+𝑥 =1
+1 𝑛
+Ezemplu sira: Ex.1: Inversu hosi 5 maka
+
+Ex.2: Inversu hosi
+
+7
+8
+
+maka
+
+8
+7
+
+, nune´e
+
+7
+8
+
+1
+5
+
+, nune´e 5 𝑥
+
+𝑥
+
+8
+7
+
+1
+5
+
+=1
+
+=1
+
+Juros Simples (Jurus Simples)
+PORTUGUÊS: Valor pago pelo dinheiro emprestado. Para calculo de juros simples,
+tem-se: Capital ( C ), taxa ( i ) e período de tempo ( n ). Fórmula 𝐽 = 𝐶 . 𝑖 . 𝑛. Exemplo:
+Jacinto aplicou US$ 6.000,00 a juros simples, com taxa de 2,5% a.m. (ao mês) durante 7
+(sete) meses. Calcule quanto de juros que Jacinto recebeu no final.
+𝐽 = 𝐶 . 𝑖 . 𝑛 → 𝐽 = 6000 . (0,025). 7 → 𝐽 = 1.050,00
+TETUN: Valór osan ne’ebé selu funan hosi empresta. Atu kalkula jurus simples. Iha:
+Kapital (C), taxa ( i ) no períodu ba tempu ( n ). Fórmula 𝐽 = 𝐶 . 𝑖 . 𝑛. Ezemplu:
+72
+
+Jacinto aplika US$ 6.000,00 ho jurus simples, ho taxa 2,5% a.m. (Ba fulan ida) durante
+fulan 7 (hitu). Halo kálkulu ba jurus ne´ebé ikus mai Jacinto simu.
+𝐽 = 𝐶 . 𝑖 . 𝑛 → 𝐽 = 6000 . (0,025). 7 → 𝐽 = 1.050,00
+
+Juros Compostos (Jurus Kompostu)
+PORTUGUÊS: Valor pago pelo dinheiro emprestado. Para cálculo de juros composto,
+tem-se: Capital ( C ), taxa ( i ) e período de tempo ( n ). Fórmula 𝑀 = 𝐶 (1 + 𝑖)𝑛 .
+Exemplo:
+Jacinto aplicou US$ 6.000,00 a juros compostos, com taxa de 2,5% a.m. durante 7
+meses. Calcule o montante (M) que Jacinto recebeu no final.
+𝑀 = 𝐶 (1 + 𝑖)𝑛 → 𝑀 = 6000 (1 + 0,025)7 → 𝑀 = 7.132,11
+TETUN: Valór osan ne’ebé selu funan hosi empresta. Atu kalkula jurus kompostu, Iha:
+Kapital ( C ), taxa ( i ) no períodu ba tempu ( n ). Fórmula 𝑀 = 𝐶 (1 + 𝑖)𝑛 . Ezemplu:
+Jacinto aplika US$ 6.000,00 ho jurus kompostu, ho taxa 2,5% a.m. (Ba fulan ida)
+durante fulan 7. Halo kálkulu ba montante ne´ebé ikus mai Jacinto simu.
+𝑀 = 𝐶 (1 + 𝑖)𝑛 → 𝑀 = 6000 (1 + 0,025)7 → 𝑀 = 7.132,11
+
+Lado (Sorin / Ladu)
+PORTUGUÊS: Segmento reto que limita as figuras planas.
+TETUN: Segmentu retu ne´ebé hakotu figura plana (kabelak) sira.
+
+Largura (Luan)
+PORTUGUÊS: É uma das três dimensões de um objeto.
+73
+
+TETUN: Mak ida hosi dimensaun tolu ba objetu ida.
+
+Limite (Limite)
+PORTUGUÊS: De forma geral é o estudo do comportamento de uma função em relação
+a um determinado valor.
+TETUN: Forma jerál mak estudu ba lala’ok kona-ba funsaun ida ne’ebé iha relasaun ho
+valór balu.
+
+Linear (Lineár)
+PORTUGUÊS: Expressões com as incógnitas elevadas a primeira potência.
+TETUN: Espresaun ho inkógnita sira elevada (hakleba) nian iha poténsia dahuluk.
+
+Linha (Liña)
+PORTUGUÊS: É formada por um conjunto de pontos.
+TETUN: Maka forma liuhosi konjuntu pontu sira.
+
+Lógica (Lójika)
+PORTUGUÊS: Ciência do raciocínio.
+TETUN: Siénsia rasiosíniu (hanoin) nian.
+
+Losango (Lozangu)
+PORTUGUÊS: Quadrilátero com os quatro lados iguais. Possui os ângulos opostos
+iguais.
+
+74
+
+TETUN: Kuadriláteru ho sorin (ladu) haat hanesan. Iha sikun opostu sira hanesan.
+
+̅̅̅̅
+𝐴𝐵 = ̅̅̅̅
+𝐴𝐶 = ̅̅̅̅
+𝐵𝐷 = ̅̅̅̅
+𝐶𝐷
+̂ 𝑒 𝐵̂ = 𝐶̂
+𝐴̂ = 𝐷
+
+Figura 43 – Losango (Lozangu)
+
+Maior (Boot Liu)
+PORTUGUÊS: Valor que é superior a uma ou várias outras. Símbolo: >
+TETUN: Valór ne´ebé boot liu ba buat ida ka sira seluk. Símbolu: >
+
+Maior Divisor Comum –M.D.C. (Divizór / Hafahe Komun Boot liu)
+PORTUGUÊS: Conhecido também por Máximo Divisor Comum (M.D.C.), é o maior
+número que divide as quantidades que estão sendo analisadas ao mesmo tempo.
+Precisa decompor em fatores primos para verificar qual é o M.D.C.
+Exemplos:
+12
+6
+Ex. 1: 3
+1
+1
+
+15 2
+15 2
+15|| 𝟑
+5 5
+1
+
+80
+40
+20
+Ex. 2: 10
+5
+5
+1
+
+120
+60
+30
+15
+15
+5
+1
+
+3 é o M.D.C. que divide 12 (doze) e 15 (quinze) ao mesmo tempo.
+
+60 𝟐
+30 𝟐
+15| 2
+15 2
+15| 3
+5 𝟓
+1
+
+Então: 2.2.5 = 20
+
+75
+
+20 é o M.D.C. que divide 80 (oitenta), 120 (cento e vinte) e 60 (sessenta) ao mesmo
+tempo.
+TETUN: Koñesidu mós ho Másimu Divizór Komun (M.D.C.), maka númeru ida-ne’ebé
+boot liu ne´ebé hafahe ba kuantidade sira ne´ebé verifika hela iha tempu hanesan.
+Presiza dekompór iha fatór primu sira atu verifika ida-ne’ebé maka M.D.C.
+Ezemplu sira:
+12
+6
+Ex. 1: 3
+1
+1
+
+15 2
+15 2
+15|| 𝟑
+5 5
+1
+
+3 maka M.D.C. ne´ebé hafahe 12 (salunu resin rua) no 15 (sanulu
+
+resin lina) iha tempu hanesan.
+80
+40
+20
+Ex. 2: 10
+5
+5
+1
+
+120
+60
+30
+15
+15
+5
+1
+
+60 𝟐
+30 𝟐
+15| 2
+15 2
+15| 3
+5 𝟓
+1
+
+Nune´e: 2.2.5 = 20
+
+20 maka M.D.C. ne´ebé hafahe 80 (ualunulu), 120 (atus ida ruanulu) no 60 (neenulu)
+iha tempu hanesan.
+
+Matemática (Matemátika)
+PORTUGUÊS: Ciência que tem o objetivo de estudar as relações entre os números, as
+operações, as grandezas e as formas.
+TETUN: Siénsia ne’ebé iha objetivu atu estuda relasaun sira entre númeru, operasaun,
+sukat-lehat no forma sira.
+
+76
+
+Matriz (Matrís)
+PORTUGUÊS: Conjunto ordenado em m (linhas) e n (colunas).
+TETUN: Konjuntu ne’ebé ordena iha m (liña sira) no n (koluna sira).
+𝑎11
+𝑎
+[ 21
+𝑎𝑚1
+
+𝑎12
+⋱
+…
+
+𝑎1𝑛
+⋮ ]
+𝑎𝑚𝑛
+
+Máximo Divisor Comum – M.D.C. (Másimu Divizór Komun)
+PORTUGUÊS: (ver Maior Divisor Comum)
+TETUN: (Haree Divizór / Hafahe Komun Boot liu)
+
+Média (Média)
+PORTUGUÊS: É somar certa quantidade de termos e dividir esse valor pela quantidade
+de termos.
+
+𝑀=
+
+∑𝑣
+𝑁
+
+Onde: M=Média; ∑ 𝑣 = Somatória dos valores e N = Número de valores.
+
+Exemplo: Calcule a média dos seguintes valores: 10 , 12 , 12 , 15 , 18 , 18 e 18.
+
+𝑀=
+
+∑𝑣
+(10 + 12 + 12 + 15 + 18 + 18 + 18)
+103
+→ 𝑀=
+→𝑀=
+→ 𝑀 = 14,7
+𝑁
+7
+7
+
+TETUN: Maka tau tan kuantidade termu sira balun no hafahe valór ba kuantidade
+ne´ebé iha.
+
+𝑀=
+
+∑𝑣
+𝑁
+
+nune´e : M=Média; ∑ 𝑣 = Somatória (Sura hamutuk) ba valór sira no N =
+
+Númeru ba valór sira.
+
+77
+
+Ezemplu: Sura tok média ba valór sira tuirmai: 10 , 12 , 12 , 15 , 18 , 18 e 18.
+
+𝑀=
+
+∑𝑣
+(10 + 12 + 12 + 15 + 18 + 18 + 18)
+103
+→ 𝑀=
+→𝑀=
+→ 𝑀 = 14,7
+𝑁
+7
+7
+
+Mediana (Klaran/ Mediana)
+PORTUGUÊS: É o número que está no meio de um conjunto.
+Exemplo: A Mediana de 10 , 12 , 12 , 15 , 18 , 18 e 18 é o número 15, porque está no
+meio, é o 4º (quarto) valor.
+TETUN: Maka númeru ida-ne´ebé iha klaran hosi konjuntu (lubun) ida.
+Ezemplu: Klaran (Mediana) hosi 10 , 12 , 12 , 15 , 18 , 18 no 18 maka númeru 15, tanba
+iha klaran, maka valór ida-ne´ebé iha 4º (dahaat).
+
+Menor (Ki´ik Liu)
+PORTUGUÊS: Valor que é inferior a uma ou várias outras. Símbolo: <
+TETUN: Valór ne´ebé ki’ik liu ba buat ida ka sira seluk. Símbolu: <
+
+Menor Múltiplo Comum – M.M.C. (Múltiplu Komun Ki’ik Liu)
+PORTUGUÊS: Conhecido também por Mínimo Múltiplo Comum (M.M.C.), é o menor
+número que é múltiplo ao mesmo tempo das quantidades que estão sendo analisadas.
+Precisa decompor em fatores primos para verificar qual é o M.M.C.
+Exemplo:
+
+78
+
+12
+6
+Ex. 1: 3
+1
+1
+
+15 2
+15 2
+15|| 3
+5 5
+1
+
+Então: 2.2.3.5 = 60
+
+60 é o M.M.C de 12 (doze) e 15 (quinze).
+TETUN: Koñesidu mós ho Mínimu Múltiplu Komun (M.M.C.), maka númeru ida
+ne’ebé ki’ik liu maka múltiplu ne’ebé iha tempu hanesan ba kuantidade sira ne´ebé
+verifika hela.
+Presiza dekompór iha fatór primu sira atu verifika ida-ne’ebé maka M.D.C.
+Ezemplu:
+12
+6
+Ex. 1: 3
+1
+1
+
+15 2
+15 2
+15|| 3
+5 5
+1
+
+Nune´e: 2.2.3.5 = 60
+
+60 maka M.M.C. hosi 12 (sanulu resin rua) no 15 (sanulu resin lima).
+
+Metro (Metru)
+PORTUGUÊS: Unidade de medida. Símbolo: m
+TETUN: Unidade ba Sasukat. Símbolu: m
+
+Metro Cúbico (Metru Kúbiku)
+PORTUGUÊS: Unidade de volume, que equivale ao volume de um cubo que tem 1 m
+(um metro) de aresta. Símbolo: m3
+TETUN: Unidade ba volume, ne´ebé ekivale ho volume ba kubu ida ne´ebé iha aresta
+1m (metru ida). Símbolu: m3
+79
+
+Metro por Segundo (Metru pur Segundu)
+PORTUGUÊS: Unidade de velocidade, que equivale à velocidade que um objeto se
+desloca percorrendo a distância de 1 metro por segundo. Símbolo: m/s.
+TETUN: Unidade ba velosidade, ne´ebé ekivale ba velosidade ne´ebé objetu ida desloka
+ho distánsia metru 1 pur segundu. Símbolu: m/s.
+
+Mínimo Múltiplo Comum – M.M.C. (Mínimu Múltiplu Komun)
+PORTUGUÊS: (ver Menor Múltiplo Comum)
+TETUN: (Haree Múltiplu Komun Ki’ik liu)
+
+Minuendo (Minuendu)
+PORTUGUÊS: Um dos termos da operação de subtração.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜
+− 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+𝑅𝑒𝑠𝑡𝑜
+ou seja:
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜 = 𝑅𝑒𝑠𝑡𝑜 + 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+
+TETUN: Termu ida hosi operasaun subtrasaun/kuran nian.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢
+−𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢 /𝐻𝑎𝑚𝑒𝑛𝑢𝑠
+𝑅𝑒𝑠𝑡𝑢/𝑟𝑒𝑠𝑖𝑛
+katak:
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢 = 𝑅𝑒𝑠𝑡𝑢/ 𝑅𝑒𝑠𝑖𝑛 + 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢/ ℎ𝑎𝑚𝑒𝑛𝑢𝑠
+
+80
+
+Módulo (Módulu)
+PORTUGUÊS: Valor absoluto de um número. Exemplo: |−5| = 5
+TETUN: Valór absolutu hosi númeru ida. Ezemplu: |−5| = 5
+
+Monômio (Monómiu)
+PORTUGUÊS:
+
+Expressão
+
+algébrica
+
+com
+
+apenas
+
+um
+
+termo.
+
+Exemplos:
+
+5𝑥𝑦 ; 12𝑥 2 ; 5𝑎𝑏 3
+TETUN: Espresaun aljébrika ida-ne’ebé ho termu ida deit. Ezemplu sira:
+5𝑥𝑦 ; 12𝑥 2 ; 5𝑎𝑏 3
+
+Multiplicação (Multiplikasaun / Dala)
+PORTUGUÊS: É a adição de um número quantas vezes indica o outro.
+TETUN: Maka tau tan númeru daladalas ne’ebé hatudu hira.
+Ex.: 2 . 5 = 5 + 5 = 10
+
+𝑜𝑢 2 + 2 + 2 + 2 + 2 = 10
+
+Múltiplo (Múltiplu)
+PORTUGUÊS: Um número a é múltiplo de b, se a for divisível por b com resto 0.
+TETUN: Númeru a ida maka múltiplu hosi b, se a bele divide b ho restu (resin) 0.
+
+Numeral (Numerál)
+PORTUGUÊS: É qualquer símbolo utilizado para expressar o número.
+TETUN: Maka naran símbolu ne´ebé utiliza hodi espresa númeru.
+
+81
+
+Número (Númeru)
+PORTUGUÊS: Símbolo para indicar quantidade.
+TETUN: Simbolu hodi hatudu kuantidade.
+
+Números Arábicos (Númeru Arábiku Sira)
+PORTUGUÊS: Origem árabe. É um dos tipos de símbolos utilizado para expressar os
+números. Eles são: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9.
+Tabela 11 – Números Arábicos
+0
+Zero
+5
+Cinco
+1
+Um
+6
+Seis
+2
+Dois
+7
+Sete
+3
+Três
+8
+Oito
+4
+Quatro
+9
+Nove
+
+TETUN: Orijen (Mai hosi) árabe. Maka tipu ida hosi símbolu sira ne´ebé utiliza hodi fó
+sai númeru sira. Sira ne´e maka: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9.
+Tabela 12 – Númeru Arábiku sira
+0
+Zero (u)
+5
+Lima
+1
+Ida
+6
+Neen
+2
+Rua
+7
+Hitu
+3
+Tolu
+8
+Ualu
+4
+Haat
+9
+Sia
+
+Número Cardinal (Númeru Kardinál)
+PORTUGUÊS: Utiliza-se para quantidade.
+
+0
+1
+2
+3
+4
+
+Tabela 13 – Exemplos de Números Cardinais
+Zero
+13
+Treze
+80
+Oitenta
+Um
+14
+Quatorze
+90
+Noventa
+Dois
+15
+Quinze
+100
+Cem
+Três
+16 Dezesseis
+101
+Cento e um
+Quatro
+17 Dezessete
+102
+Cento e dois
+
+300
+400
+500
+600
+700
+
+Trezentos
+Quatrocentos
+Quinhentos
+Seiscentos
+Setecentos
+82
+
+5
+6
+7
+8
+9
+
+Cinco
+Seis
+Sete
+Oito
+Nove
+
+18
+19
+20
+30
+40
+
+Dezoito
+Dezenove
+Vinte
+Trinta
+Quarenta
+
+103
+104
+110
+111
+112
+
+10
+
+Dez
+
+50
+
+Cinquenta
+
+157
+
+11
+
+Onze
+
+60
+
+Sessenta
+
+188
+
+12
+
+Doze
+
+70
+
+Setenta
+
+200
+
+Cento e três
+Cento e quatro
+Cento e dez
+Cento e onze
+Cento e doze
+Cento e cinquenta e
+sete
+Cento e oitenta e
+oito
+Duzentos
+
+800
+900
+1000
+2000
+3000
+
+Oitocentos
+Novecentos
+Mil
+Dois mil
+Três mil
+
+10.000
+
+Dez mil
+
+100.000
+
+Cem mil
+
+1.000.000
+
+Um milhão
+
+TETUN: Utiliza ba kuantidade.
+Tabela 14 – Ezemplu ba Númeru Kardinál sira
+0
+Zero (u)
+80
+1
+Ida
+90
+2
+Rua
+100
+3
+Tolu
+101
+4
+Haat
+102
+5
+Lima
+103
+6
+Neen
+104
+7
+Hitu
+110
+8
+Ualu
+111
+9
+Sai
+112
+10
+Sanulu
+157
+11 Sanulu-resin-ida
+188
+12 Sanulu-resin-rua
+200
+13 Sanulu-resin-tolu
+300
+14 Sanulu-resin-haat
+400
+15 Sanulu-resin-lima
+500
+16 Sanulu-resin-neen
+600
+17 Sanulu-resin-hitu
+700
+18 Sanulu-resin-ualu
+800
+19 Sanulu-resin-sai
+900
+20
+Ruanulu
+1000
+30
+Tolunulu
+2000
+40
+Haatnulu
+3000
+50
+Limanulu
+10.000
+60
+Neenulu
+100.000
+70
+Hitunulu
+1.000.000
+
+Ualunulu
+Sianulu
+Atus ida
+Atus ida resin ida
+Atus ida resin rua
+Atus ida resin tolu
+Atus ida resin haat
+Atus ida sanulu
+Atus ida sanulu-resin-ida
+Atus ida sanulu-resin-rua
+Atus ida limanulu-resin-hitu
+Atus ida ualunulu-resin-ualu
+Atus rua
+Atus tolu
+Atus haat
+Atus lima
+Atus neen
+Atus hitu
+Atus ualu
+Atus sai
+Rihun ida
+Rihun rua
+Rihun tolu
+Reben ida
+Tokon ida
+Miliaun ida (Nanun ida)
+
+83
+
+Números Complexos (Númeru Kompleksu Sira)
+PORTUGUÊS: O que tem i na fórmula. a + ib, onde: a (parte real) e b (parte
+imaginária) são números reais. Símbolo: ℂ
+TETUN: Ne´ebé iha i iha fórmula. a + ib, ne´ebé: a (parte reál) no b (parte imajinária)
+sira hotu númeru reál. Símbolu: ℂ
+
+Número Decimal (Númeru Desimál)
+PORTUGUÊS: (ver Decimal)
+TETUN: (Haree Desimál)
+
+Números Imaginários (Númeru Imajináriu Sira)
+PORTUGUÊS: São os números complexos que tem a parte real igual a 0.
+0 + ib = ib
+TETUN: Maka númeru kompleksu sira ne´ebé iha parte reál hanesan ho 0.
+0 + ib = ib
+
+Números Inteiros (Númeru Inteiru Sira)
+PORTUGUÊS: Conjunto de números formado por números naturais e negativos.
+Símbolo: ℤ
+ℤ = {… , −3, −2, −1, 0 , 1 , 2 , 3 , … }
+TETUN: Konjuntu hosi númeru sira ne’ebé forma hosi númeru naturál no negativu sira.
+Símbolu: ℤ
+
+84
+
+ℤ = {… , −3, −2, −1, 0 , 1 , 2 , 3 , … }
+
+Números Irracionais (Númeru Irrasionál Sira)
+PORTUGUÊS: Conjunto de números formado por números que não podem ser
+representados na forma de números racionais. Exemplos: √2 ; √7 ; 𝜋 …
+TETUN: Konjuntu hosi númeru sira ne’ebé forma hosi númeru sira ne´ebé la bele
+reprezenta iha forma númeru rasionál sira. Ezemplu sira: √2 ; √7 ; 𝜋 …
+
+Números Naturais (Númeru Naturál Sira)
+PORTUGUÊS: Conjunto de números criado pela necessidade de contar. É representado
+por números positivos e zero. Símbolo: ℕ
+ℕ = { 0 ,1 ,2 ,3 ,…}
+TETUN: Konjuntu hosi númeru sira ne’ebé halo ba nesesidade hodi konta/sura. Maka
+reprezenta hosi númeru pozitivu sira no zero. Símbolu: ℕ
+ℕ = { 0 ,1 ,2 ,3 ,…}
+
+Números Ordinais (Númeru Ordinál Sira)
+PORTUGUÊS: Conjunto de números que determina uma relação de ordem.
+
+2
+
+Tabela 15 – Exemplos de Números Ordinais
+Décimo
+Escrita
+13
+80
+Terceiro
+Décimo
+Primeiro
+14
+90
+Quarto
+Segundo
+15 Décimo Quinto
+100
+
+3
+
+Terceiro
+
+16
+
+Décimo Sexto
+
+101
+
+4
+
+Quarto
+
+17
+
+Décimo Sétimo
+
+102
+
+Nº
+1
+
+Octogésimo
+
+300
+
+Trecentésimo
+
+Nonagésimo
+
+400
+
+Quadrigentésimo
+
+Centésimo
+Centésimo
+Primeiro
+Centésimo
+
+500
+
+Quingentésimo
+
+600
+
+Sexcentésimo
+
+700
+
+Septigentésimo
+85
+
+5
+
+Quinto
+
+18
+
+Décimo Oitavo
+
+103
+
+6
+
+Sexto
+
+19
+
+Décimo Nono
+
+104
+
+7
+
+Sétimo
+
+20
+
+Vigésimo
+
+110
+
+8
+
+Oitavo
+
+30
+
+Trigésimo
+
+111
+
+9
+
+Nono
+
+40
+
+Quadragésimo
+
+112
+
+10
+
+Décimo
+
+50
+
+Quinquagésimo
+
+157
+
+11
+
+Décimo
+Primeiro
+
+60
+
+Sexagésimo
+
+188
+
+12
+
+Décimo
+Segundo
+
+70
+
+Septuagésimo
+
+200
+
+Segundo
+Centésimo
+Terceiro
+Centésimo
+Quarto
+Centésimo
+Décimo
+Centésimo
+Décimo
+Primeiro
+Centésimo
+Décimo
+Segundo
+Centésimo
+Quinquagésimo
+Sétimo
+Centésimo
+Octogésimo
+Oitavo
+Ducentésimo
+
+800
+
+Octigentésimo
+
+900
+
+Nongentésimo
+
+1000
+
+Milésimo
+
+2000
+
+Dois milésimo
+
+3000
+
+Três milésimo
+
+10.000
+
+Dez milésimo
+
+100.000
+
+Cem milésimo
+
+1.000.0000
+
+Milionésimo
+
+TETUN: Konjuntu hosi númeru sira ne´ebé hatuur relasaun ba orden.
+Tabela 16- Ezemplu númeru ordinál sira.
+Nº
+Hakerek
+80
+1
+Dahuluk
+90
+2
+Daruak
+100
+3
+Datoluk
+101
+4
+Dahaat
+102
+5
+Dalimak
+103
+6
+Daneen
+104
+7
+Dahituk
+110
+8
+Daualuk
+111
+9
+Dasiak
+112
+10
+Dasanuluk
+157
+11
+Dasanulu-resin-idak
+188
+12
+Dasanulu-resin-ruak
+200
+13 Dasanulu-resin-toluk
+300
+14
+Dasanulu-resin-haat
+400
+15 Dasanulu-resin-limak
+500
+16 Dasanulu-resin-neen
+600
+17 Dasanulu-resin-hituk
+700
+18 Dasanulu-resin-ualuk
+800
+19 Dasanulu-resin-siak
+900
+20
+Daruanuluk
+1000
+30
+Datolunuluk
+2000
+
+Daualunuluk
+Dasianuluk
+Dahatus
+Dahatus ida resin idak
+Dahatus ida resin ruak
+Dahatus ida resin toluk
+Dahatus ida resin haat
+Dahatus resin sanulu
+Dahatus resin sanulu-resin-idak
+Dahatus resin sanulu-resin-ruak
+Dahatus resin limanulu-resin-hituk
+Dahatus resin ualunulu-resin-ualuk
+Dahatus ruak
+Dahatus toluk
+Dahatus haat
+Dahatus limak
+Dahatus neen
+Dahatus hituk
+Dahatus ualuk
+Dahatus siak
+Darihun
+Darihun ruak
+86
+
+40
+50
+60
+70
+
+Dahaatnuluk
+Dalimanuluk
+Daneennuluk
+Dahitunuluk
+
+3000
+10.000
+100.000
+1.000.000
+
+Darihun toluk
+Darihun sanuluk ka dareben
+Darihun atus ka datokon
+Damillaun
+
+Número Pi (Númeru Pi)
+PORTUGUÊS: É um número irracional geométrico, ou seja, representa o quociente da
+relação entre a circunferência e o diâmetro. Símbolo: 𝜋
+TETUN: Maka númeru irrasionál jeométriku ida, katak, reprezenta kosiente relasaun
+nian entre sirkunferénsia no diámetru. Símbolu: 𝜋
+
+Números Primos (Númeru Primu Sira)
+PORTUGUÊS: São números que só podem ser divididos por ele mesmo e pelo número
+1 (um), obtendo resto 0 (zero). Exemplos: 2 , 3 , 5 , 7 , 11 , 13 , 17 , 19 , 23 ,...
+TETUN: Maka númeru sira ne´ebé bele hafahe de’it ho númeru sira-ne’e rasik no
+númeru 1 (ida), hetan restu/resin 0 (zero). Ezemplu sira: 2 , 3 , 5 , 7 , 11 , 13 , 17 , 19 ,
+23 ,...
+
+Números Primos entre Si (Númeru Primu entre Sira)
+PORTUGUÊS: Os números são primos entre si se o máximo divisor comum (M.D.C.)
+for 1. Exemplo: Verifique se 14,15 e 17 são primos entre si.
+14 15
+7 15
+7
+5
+7
+1
+1
+1
+1
+1
+
+17 2
+17 3
+17| 5
+17| 7
+17 17
+1
+
+Resposta: Sim, porque o M.D.C. = 1.
+
+87
+
+TETUN: Númeru sira maka primu entre sira bainhira másimu divizór komun (M.D.C)
+hanesan 1. Ezemplu:
+Verifika 14, 15, no 17 maka númeru primu entre sira.
+14 15
+7 15
+7
+5
+7
+1
+1
+1
+1
+1
+
+17 2
+17 3
+17| 5
+17| 7
+17 17
+1
+
+Resposta: loos, tanba M.D.C. = 1.
+
+Números Racionais (Númeru Rasionál Sira)
+PORTUGUÊS: É todo número representado pela fração de dois inteiros. Símbolo: ℚ.
+
+𝑝
+ℚ = { |𝑝 ∈ ℤ 𝑒 𝑞 ∈ ℤ∗ }
+𝑞
+Exemplos:
+
+5
+6
+
+; 3,5 ;
+
+−6
+7
+
+TETUN: Maka númeru hotu-hotu ne´ebé reprezenta ho fraksaun inteiru rua. Símbolu:
+ℚ.
+
+𝑝
+ℚ = { |𝑝 ∈ ℤ 𝑒 𝑞 ∈ ℤ∗ }
+𝑞
+Ezemplu sira :
+
+5
+6
+
+; 3,5 ;
+
+−6
+7
+
+Números Reais (Númeru Reál Sira)
+PORTUGUÊS: Conjunto de números formado pela união entre os números racionais e
+irracionais. Símbolo: ℝ .
+88
+
+TETUN: Konjuntu hosi númeru sira ne’ebé forma hosi uniaun entre númeru rasionál no
+irrasionál sira. Símbolu: ℝ .
+
+Números Romanos (Númeru Romanu Sira)
+PORTUGUÊS: Origem Romana. Escrita dos números naturais por meio de símbolos.
+Exemplos: Ver em TETUN
+TETUN: Orijen Romana. Eskrita (hakerek) hosi númeru naturál sira liuhosi símbolu
+sira. Ezemplu sira:
+
+Nº
+Arábico
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Tabela 15 – Exemplos de números Romanos (Ezemplu númeru Romanu sira)
+Nº
+13
+XIII
+80
+LXXX
+300
+CCC
+Romano
+I
+14
+XIV
+90
+XC
+400
+CD
+II
+15
+XV
+100
+C
+500
+D
+III
+16
+XVI
+101
+CI
+600
+DC
+IV
+17
+XVII
+102
+CII
+700
+DCC
+V
+18 XVIII
+103
+CIII
+800
+DCCC
+VI
+19
+XIX
+104
+CIV
+900
+CM
+VII
+20
+XX
+110
+CX
+1000
+M
+VIII
+30 XXX
+111
+CXI
+2000
+MM
+IX
+40
+XL
+112
+CXII
+3000
+MMM
+X
+50
+L
+157
+CLVII
+10.000
+𝑋̅
+XI
+60
+LX
+188 CLXXXVIII
+100.000
+𝐶̅
+̅
+XII
+70
+LXX
+200
+CC
+1.000.000
+𝑀
+
+Oblíquo (Oblíkuu)
+PORTUGUÊS: Todas as linhas que não são perpendiculares e nem paralelas.
+TETUN: Liña hotu-hotu ne´ebé la’os perpendikulár no la’os paralela sira.
+
+89
+
+Ordem (Orden)
+PORTUGUÊS: Organizar os elementos de forma a visualizar de maneira mais clara a
+situação.
+TETUN: Organiza elementu sira ho roran hodi haree ho maneira ne´ebé moos liu/klaru
+ba situasaun.
+
+Ordenada (Ordenada)
+PORTUGUÊS: Localização de um ponto em relação ao eixo vertical y. Poden ter
+posição positiva, negativa ou nula. Exemplos: Ver em TETUN.
+TETUN: Fatin ba pontu sira-ne´ebé iha relasaun ho eixu vertikál (eixu y). Bele iha
+pozisaun pozitiva, negativa ka nula. Ezemplu sira:
+
+Figura 44- Eixo X-Y com ordenada sira (Eixu X-Y ho ordenada sira)
+
+
+A (-3,0) Ordenada igual a 0.
+
+A (-3,0) Ordenada hanesan 0.
+
+
+
+B (+1,0) Ordenada igual a 0.
+
+B (+1,0) Ordenada hanesan 0.
+
+
+
+C (+3,+2) Ordenada igual a +2.
+
+C (+3,+2) Ordenada hanesan +2.
+
+
+
+D (-3,-2) Ordenada igual a -2.
+
+D (-3,-2) Ordenada hanesan –2.
+
+90
+
+Origem (Orijen)
+PORTUGUÊS: Ponto onde se começa a medir.
+TETUN: Pontu ne´ebé hahú sukat.
+
+Ortogonal (Ortogonál)
+PORTUGUÊS: Duas coisas (retas, planos, ...) que se cruzam e formam ângulos retos.
+Sinônimo de perpendicular.
+
+Figura 45 – Retas a e b são ortogonais
+TETUN: Buat rua (liña sira, planu sira,...) ne´ebé kruza no forma sikun siku sira.
+Sinónimu ho perpendikulár.
+
+Figura 46 – Reta a no b mak ortogonál sira.
+
+Par Ordenado (Par Ordenadu)
+PORTUGUÊS: Conjunto de dois elementos. Representado por (x, y).
+TETUN: Konjuntu hosi elementu rua, Reprezenta ho (x,y).
+
+91
+
+Parábola (Parábola)
+PORTUGUÊS: Lugar geométrico resultante do corte de um cone por um plano paralelo
+à linha geradora. Exemplos: Ver em TETUN.
+TETUN: Fatin jeométriku ne’ebé mosu hosi tesi kone ida ba planu paralelu ida iha liña
+jeradora.
+Ezemplu sira: Parábola pozitiva (𝑦 = 𝑥 2 + 1) no parábola negativa. (𝑦 = −𝑥 2 − 1)
+
+Figura 47 – Parábolas (Parábola sira)
+
+Paralelepípedo (Paralelepípedu)
+PORTUGUÊS: Prisma cujas faces são paralelogramos. Possui 6 faces. Exemplo: Ver
+em TETUN.
+TETUN: Prizma maka fase sira ne’ebé paralelogramu. Iha fase 6. Ezemplu:
+
+92
+
+Figura 48 – Paralelepípedo Retangular (Paralelepípedu Retangulár)
+
+Paralelo (Paralelu)
+PORTUGUÊS: Nome dado à relação entre linhas ou planos que possuem a mesma
+distância em toda sua extensão. Símbolo: ∥
+
+TETUN: Naran kona-ba relasaun entre liña ka planu sira ne´ebé iha distánsia hotu-hotu
+hanesan iha nia estensaun (fatin) tomak. Símbolu: ∥
+
+Figura 49 – 𝑠 ∥ 𝑡 (Reta s paralela a reta t – Reta (liña) paralela a reta t)
+
+Paralelogramo (Paralelogramu)
+PORTUGUÊS: Figura que tem as retas opostas paralelas e iguais.
+TETUN: Figura ne´ebé iha reta sira oposta (fó oin ba malu) sai paralela no hanesan.
+
+Figura 50 – Paralelogramo (Paralelogramu)
+
+93
+
+Parcelas (Parsela Sira)
+PORTUGUÊS: São os termos da operação de adição.
+TETUN: Maka termu sira ba opersaun adisaun (tau tan) nian.
+
+Pentágono (Pentágonu)
+PORTUGUÊS: Polígono de cinco lados.
+TETUN: Polígonu ho sorin (ladu) lima.
+
+Figura 51 – Pentágono (Pentágonu)
+
+Percentagem (Persentajen)
+PORTUGUÊS: Razão que o denominador é 100. Também chamada de Porcentagem.
+Símbolo: %. Exemplos: Ver em TETUN.
+TETUN: Razaun ida ne´ebé denominadór mak atus ida (100). Hanaran mós porsentajen.
+Símbolu: %. Ezemplu sira:
+
+35
+= 35 %
+100
+
+;
+
+80
+= 80 %
+100
+
+94
+
+Perímetro (Perímetru / Hale’u)
+PORTUGUÊS: Soma dos lados de uma figura plana.
+TETUN: Sura sorin sira hotu hosi figura plana ida.
+
+Permutação (Permutasaun)
+PORTUGUÊS: Organizar os elementos em várias posições. Para calcular a permutação
+simples, utiliza-se a fórmula: 𝑃 = 𝑛! 𝑜𝑛𝑑𝑒 𝑛! = 𝑛 . (𝑛 − 1). (𝑛 − 2) … .1.
+Exemplo: João, Alfedro, Lou e Domingas serão fotografados, quais são as
+possibilidades de posição/ordem para essa foto?
+𝑃 = 𝑛! → 𝑃 = 4! → 𝑃 = 4 . 3 . 2 . 1 → 𝑃 = 24
+TETUN: Organiza elementu sira iha pozisaun oioin. Atu kalkula permutasaun simples,
+utiliza fórmula: 𝑃 = 𝑛! 𝑛𝑒´𝑒𝑏é 𝑛! = 𝑛 . (𝑛 − 1). (𝑛 − 2) … .1.
+Ezemplu: João, Alfedro, Lou no Domingas sei hasai sira nia fotografia, pozisaun / orden
+sasá maka iha possibilidade ba foto ne´e ?
+𝑃 = 𝑛! → 𝑃 = 4! → 𝑃 = 4.3.2.1 → 𝑃 = 24
+
+Perpendicular (Perpendikulár)
+PORTUGUÊS: Situação que forma ângulo reto (ângulo de 90º).
+TETUN: Situasaun ne´ebé forma sikun siku (sikun 90º).
+
+95
+
+Pirâmide (Pirámide)
+PORTUGUÊS: Sólido que tem como base um polígono e suas faces laterais são
+triângulos isósceles.
+TETUN: Sólida ne´ebé iha baze polígonu ida no nia fase laterál sira maka triángulu
+izósele sira.
+
+Figura 52 – Pirâmide (Pirámide)
+
+Plano (Planu)
+PORTUGUÊS: Conceito chamado de primitivo, assim como a reta e o ponto. Superfície
+que se tem como origem três pontos não alinhados.
+TETUN: Konseitu ne’ebé hanaran primitivu, hanesan mós ho reta no pontu. Superfísie
+ne´ebé iha pontu tolu orijen lahó liña ida.
+
+Poliedro (Poliedru)
+PORTUGUÊS: Sólido com números finitos de faces (polígonos).
+TETUN: Sólidu ho númeru finitu hosi fase (Polígonu) sira.
+
+Polígono (Polígonu)
+PORTUGUÊS: Figura geométrica fechada. Possui equivalente número de ângulos e
+lados.
+
+96
+
+TETUN: Figura jeométrika naktaka. Iha nia númeru sikun no sorin (ladu) sira hanesan.
+
+Polinômio (Polinómiu)
+PORTUGUÊS: Expressão algébrica com mais de 3 (três) monômios. Exemplo:
+5𝑥𝑦 + 12𝑥 2 − 5y + 12
+TETUN: Espressaun aljébrika ne´ebé hamutuk liu hosi monómiu 3 (tolu).Ezemplu:
+5𝑥𝑦 ; 12𝑥 2 ; 5𝑎𝑏 3
+
+Ponto (Pontu)
+PORTUGUÊS: Conceito chamado de primitivo, assim como a reta e o plano. Possui os
+seguintes postulados:
+
+
+Não tem dimensão;
+
+
+
+Passam infinitas retas;
+
+
+
+O ponto que pertence a uma reta, divide esta em duas semi-retas, nas quais esse
+ponto é a origem.
+
+TETUN: Konseitu ne’ebé hanaran primitivu, hanesan mós ho reta no planu. Iha
+postuladu sira tuirmai:
+
+
+La iha dimensaun;
+
+
+
+Iha liña infinita;
+
+
+
+Pontu ne´ebé pertense ba reta ida, sei hafahe ida-ne’e ba semi-reta rua, pontu
+ne´e maka orijen.
+
+97
+
+Porcentagem (Porsentajen)
+PORTUGUÊS: Mesmo que percentagem. Ver percentagem.
+TETUN: Hanesan persentajen. Haree persentajen.
+
+Postulado (Postuladu)
+PORTUGUÊS: Afirmação aceita sem demonstração.
+TETUN: Afirmasaun ne´ebé simu lahó demonstrasaun.
+
+Potência (Poténsia)
+PORTUGUÊS: Indica a quantidade de vezes que o número irá aparecer e multiplicar-se.
+Exemplo: 35 = 3 𝑥 3 𝑥 3 𝑥 3 𝑥 3
+TETUN: Hatudu kuantidade daladalas tuir númeru ne’ebé sei mosu no multiplika.
+Ezemplu: 35 = 3 𝑥 3 𝑥 3 𝑥 3 𝑥 3
+
+Primos (Primu Sira)
+PORTUGUÊS: Ver Números Primos.
+TETUN: Haree Númeru primu sira.
+
+Prisma (Prizma)
+PORTUGUÊS: Sólido limitado por polígonos iguais e paralelos. Tem as faces laterais
+retângulos ou paralelogramos. Exemplos: Ver em TETUN
+TETUN: Sólidu ne’ebé hakotu ho polígonu hanesan no paralelu sira. Iha fase laterál sira
+retángulu ka paralelogramu. Ezemplu sira:
+98
+
+Figura 53 – Exemplos de Prismas (Ezemplu Prizma sira)
+
+Probabilidade (Probabilidade)
+PORTUGUÊS: Relação entre casos favoráveis e casos possíveis.
+Exemplo: A probabilidade de um dado com 6 faces de cair no número 4 é 𝑃 =
+
+1
+6
+
+.
+
+TETUN: Relasaun entre kazu favoravel no kazu posivel sira;
+Ezemplu: Probabilidade hosi dadu ida ho fase 6 monu iha númeru 4 maka 𝑃 =
+
+1
+6
+
+.
+
+Problema (Problema)
+PORTUGUÊS: É uma situação que precisa ser resolvida.
+TETUN: Maka situasaun ida ne´ebé presiza rezolve.
+
+Produto (Produtu)
+PORTUGUÊS: É o resultado de uma multiplicação.
+TETUN: Maka resultadu hosi multiplikasaun ida.
+
+99
+
+Produto Cartesiano (Produtu Kartezianu)
+PORTUGUÊS: Tem-se dois conjuntos A e B, o produto cartesiano são todos os pares
+ordenados desses dois conjuntos de forma ordenada.
+𝐴 𝑋 𝐵 = {(𝑥, 𝑦)|𝑥 ∈ 𝐴 𝑒 𝑦 ∈ 𝐵}
+Exemplo: A = {0,1,2} e B = {3,4},
+O produto cartesiano A X B = { (0,3) ; (0,4) ; (1,3) ; (1,4) ; (2,3) ; (2,4) }
+TETUN: Iha konjuntu rua A no B. produto kartezianu maka par ordenadu sira hotu-hotu
+hosi konjuntu rua ho forma ordenada.
+𝐴 𝑋 𝐵 = {(𝑥, 𝑦)|𝑥 ∈ 𝐴 𝑒 𝑦 ∈ 𝐵}
+Ezemplu: A = {0,1,2} e B = {3,4},
+Produto kartezianu A X B = { (0,3) ; (0,4) ; (1,3) ; (1,4) ; (2,3) ; (2,4) }
+
+Produtos Notáveis (Produtu Notavel Sira)
+PORTUGUÊS: São regras para facilitar o cálculo. Exemplos:
+Tabela 16 – Alguns produtos notáveis e exemplos
+Produtos Notáveis
+Exemplos
+𝟐
+𝟐
+𝟐
+(𝒂 + 𝒃) = 𝒂 + 𝟐𝒂𝒃 + 𝒃
+(𝑥 + 2)2 = 𝑥 2 + 4𝑥 + 4
+𝟐
+𝟐
+𝟐
+(𝒂 − 𝒃) = 𝒂 − 𝟐𝒂𝒃 + 𝒃
+(𝑥 − 2)2 = 𝑥 2 − 4𝑥 + 4
+(𝒂 + 𝒃)(𝒂 − 𝒃) = 𝒂𝟐 − 𝒃𝟐
+(𝑥 + 4)(𝑥 − 4) = 𝑥 2 − 16
+(𝒂 + 𝒃)𝟑 = 𝒂𝟑 + 𝟑𝒂𝟐 𝒃 + 𝟑𝒂𝒃𝟐 + 𝒃𝟑
+(𝑥 + 1)3 = 𝑥 3 + 3𝑥 2 + 3𝑥 + 1
+𝟑
+𝟑
+𝟐
+𝟐
+𝟑
+(𝒂 − 𝒃) = 𝒂 − 𝟑𝒂 𝒃 + 𝟑𝒂𝒃 − 𝒃
+(𝑥 − 2)3 = 𝑥 3 − 6𝑥 2 + 12𝑥 − 8
+(𝒂 + 𝒃)(𝒂𝟐 − 𝒂𝒃 + 𝒃𝟐 ) = 𝒂𝟑 + 𝒃𝟑
+(𝑥 + 2)(𝑥 2 − 2𝑥 + 4) = 𝑥 3 + 8
+(𝒂 − 𝒃)(𝒂𝟐 + 𝒂𝒃 + 𝒃𝟐 ) = 𝒂𝟑 − 𝒃𝟑
+(𝑥 − 2)(𝑥 2 + 2𝑥 + 4) = 𝑥 3 − 8
+
+TETUN: Maka regra sira ne’ebé atu fasilita kálkulu (sura). Ezemplu sira:
+
+100
+
+Tabela 17– Produtu notavel balu no ezemplu sira.
+Produtu Notavel sira
+Ezemplu sira
+𝟐
+𝟐
+𝟐
+(𝒂 + 𝒃) = 𝒂 + 𝟐𝒂𝒃 + 𝒃
+(𝑥 + 2)2 = 𝑥 2 + 4𝑥 + 4
+(𝒂 − 𝒃)𝟐 = 𝒂𝟐 − 𝟐𝒂𝒃 + 𝒃𝟐
+(𝑥 − 2)2 = 𝑥 2 − 4𝑥 + 4
+(𝒂 + 𝒃)(𝒂 − 𝒃) = 𝒂𝟐 − 𝒃𝟐
+(𝑥 + 4)(𝑥 − 4) = 𝑥 2 − 16
+𝟑
+𝟑
+𝟐
+𝟐
+𝟑
+(𝒂 + 𝒃) = 𝒂 + 𝟑𝒂 𝒃 + 𝟑𝒂𝒃 + 𝒃
+(𝑥 + 1)3 = 𝑥 3 + 3𝑥 2 + 3𝑥 + 1
+(𝒂 − 𝒃)𝟑 = 𝒂𝟑 − 𝟑𝒂𝟐 𝒃 + 𝟑𝒂𝒃𝟐 − 𝒃𝟑
+(𝑥 − 2)3 = 𝑥 3 − 6𝑥 2 + 12𝑥 − 8
+(𝒂 + 𝒃)(𝒂𝟐 − 𝒂𝒃 + 𝒃𝟐 ) = 𝒂𝟑 + 𝒃𝟑
+(𝑥 + 2)(𝑥 2 − 2𝑥 + 4) = 𝑥 3 + 8
+𝟐
+𝟐
+𝟑
+𝟑
+(𝒂 − 𝒃)(𝒂 + 𝒂𝒃 + 𝒃 ) = 𝒂 − 𝒃
+(𝑥 − 2)(𝑥 2 + 2𝑥 + 4) = 𝑥 3 − 8
+
+Progressão Aritmética (Progresaun Aritmétika)
+PORTUGUÊS: A progressão aritmética (PA) é uma sequência de números, em que cada
+termo é resultado da soma com uma razão.
+Fórmula Geral: 𝑎𝑛 = 𝑎1 + (𝑛 − 1)𝑟
+Onde: 𝑎𝑛 = 𝑣𝑎𝑙𝑜𝑟 𝑑𝑜 ú𝑙𝑡𝑖𝑚𝑜 𝑡𝑒𝑟𝑚𝑜
+
+𝑎1 = 𝑣𝑎𝑙𝑜𝑟 𝑑𝑜 𝑝𝑟𝑖𝑚𝑒𝑖𝑟𝑜 𝑡𝑒𝑟𝑚𝑜
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑡𝑒𝑟𝑚𝑜𝑠
+
+𝑟 = 𝑟𝑎𝑧ã𝑜
+
+𝑟 = 𝑎2 − 𝑎1
+
+Exemplo: Ache o número de termos da PA (1,4,7,10,...,109).
+𝑟 = 𝑎2 − 𝑎1 → 𝑟 = 4 − 1 → 𝑟 = 3
+𝑎𝑛 = 𝑎1 + (𝑛 − 1)𝑟
+
+→ 109 = 1 + (𝑛 − 1)3 → 109 = 1 + 3𝑛 − 3
+
+→ 109 = 3𝑛 − 2 → 𝑛 = 37
+TETUN: Progresaun aritmétika (PA) maka sekuénsia ida hosi númeru sira, ne´ebé
+termu ida-idak maka rezultadu hosi soma ho nia razaun.
+Fórmula jerál: 𝑎𝑛 = 𝑎1 + (𝑛 − 1)𝑟
+Ne´ebé:𝑎𝑛 = 𝑣𝑎𝑙ó𝑟 𝑡𝑒𝑟𝑚𝑢 𝑖𝑘𝑢𝑠 (ú𝑙𝑡𝑖𝑚𝑢)𝑛𝑖𝑎𝑛
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑢 𝑡𝑒𝑟𝑚𝑢 𝑛𝑖𝑎𝑛
+
+𝑎1 = 𝑣𝑎𝑙ó𝑟 𝑡𝑒𝑟𝑚𝑢 𝑑𝑎ℎ𝑢𝑙𝑢𝑘 𝑛𝑖𝑎𝑛
+
+𝑟 = 𝑟𝑎𝑧𝑎𝑢𝑛
+
+𝑟 = 𝑎2 − 𝑎1
+
+101
+
+Ezemplu: Buka númeru ba termu sira PA (1,4,7,10,...,109) nian.
+𝑟 = 𝑎2 − 𝑎1 → 𝑟 = 4 − 1 → 𝑟 = 3
+𝑎𝑛 = 𝑎1 + (𝑛 − 1)𝑟
+
+→ 109 = 1 + (𝑛 − 1)3 → 109 = 1 + 3𝑛 − 3
+→ 109 = 3𝑛 − 2 → 𝑛 = 37
+
+Progressão Geométrica (Progresaun Jeométrika)
+PORTUGUÊS: A progressão geométrica (PG) é uma sequência de números, em que
+cada termo é resultado do produto com uma razão.
+Fórmula Geral: 𝑎𝑛 = 𝑎1 . 𝑞 (𝑛−1)
+Onde:
+
+𝑎𝑛 = 𝑣𝑎𝑙𝑜𝑟 𝑑𝑜 ú𝑙𝑡𝑖𝑚𝑜 𝑡𝑒𝑟𝑚𝑜
+
+𝑎1 = 𝑣𝑎𝑙𝑜𝑟 𝑑𝑜 1º (𝑝𝑟𝑖𝑚𝑒𝑖𝑟𝑜) 𝑡𝑒𝑟𝑚𝑜
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑡𝑒𝑟𝑚𝑜𝑠
+
+𝑞 = 𝑟𝑎𝑧ã𝑜
+
+𝑞=
+
+𝑎2
+𝑎1
+
+Exemplo: Ache o número de termos da PG (1,4,16,...,1024)
+
+𝑞=
+
+𝑎2
+4
+→𝑞=
+→𝑟=4
+𝑎1
+1
+
+𝑎𝑛 = 𝑎1 . 𝑞 (𝑛−1) → 1024 = 1. 4 (𝑛−1) → 1024 = 4 (𝑛−1)
+→ 210 = 2 2(𝑛−1) → 10 = 2𝑛 − 2
+
+→𝑛=6
+
+TETUN: Progresaun Jeométrika (PJ) maka sekuénsia ida hosi númeru sira, ne´ebé
+termu ida-idak maka resultadu hosi dala (produto) ho nia razaun.
+Fórmula jerál: 𝑎𝑛 = 𝑎1 . 𝑞 (𝑛−1)
+Ne´ebé:𝑎𝑛 = 𝑣𝑎𝑙ó𝑟 𝑡𝑒𝑟𝑚𝑢 𝑖𝑘𝑢𝑠 (ú𝑙𝑡𝑖𝑚𝑢 ) 𝑛𝑖𝑎𝑛 𝑎1 = 𝑣𝑎𝑙ó𝑟 𝑡𝑒𝑟𝑚𝑢 𝑑𝑎ℎ𝑢𝑙𝑢𝑘 nian
+102
+
+𝑛 = 𝑛ú𝑚𝑒𝑟𝑢 𝑡𝑒𝑟𝑚𝑢 𝑛𝑖𝑎𝑛
+
+𝑞 = 𝑟𝑎𝑧𝑎𝑢𝑛
+
+𝑞=
+
+𝑎2
+𝑎1
+
+Ezemplu: Buka númeru ba termu sira PJ (1,4,16,...,1024) nian.
+
+𝑞=
+
+𝑎2
+4
+→𝑞=
+→𝑟=4
+𝑎1
+1
+
+𝑎𝑛 = 𝑎1 . 𝑞 (𝑛−1) → 1024 = 1. 4 (𝑛−1) → 1024 = 4 (𝑛−1)
+→ 210 = 2 2(𝑛−1) → 10 = 2𝑛 − 2
+
+→𝑛=6
+
+Proporção (Proporsaun)
+PORTUGUÊS: É a igualdade das razões. Exemplo: Ver em TETUN
+TETUN: Maka razaun sira ne’ebé hanesan. Ezemplu:
+
+20
+10
+=
+6
+3
+
+Propriedade Associativa (Propriedade Asosiativa)
+PORTUGUÊS: Quando a ordem das operações não altera o resultado. Ver a situação
+abaixo:
+Para a Adição: 𝑎 + (𝑏 + 𝑐) = (𝑎 + 𝑏) + 𝑐
+Para a Multiplicação: a x (b x c) = (a x b) x c
+Exemplos:
+Para a Adição: 5 + (6 + 4) = (5 + 6) + 4
+Para a Multiplicação: 3 x (2 x 4) = (3 x 2) x 4
+
+103
+
+TETUN: Bainhira orden operasaun sira nian la muda rezultadu. Haree situasaun iha
+kraik:
+Ba Adisaun (tau tan): 𝑎 + (𝑏 + 𝑐) = (𝑎 + 𝑏) + 𝑐
+Ba Multiplikasaun (Dala): a x (b x c) = (a x b) x c
+Ezemplu Sira:
+Ba Adisaun (tau tan): 5 + (6 + 4) = (5 + 6) + 4
+Ba Multiplikasaun (Dala): 3 x (2 x 4) = (3 x 2) x 4
+
+Propriedade Comutativa (Propriedade Komutativa)
+PORTUGUÊS: Quando a ordem dos termos não altera o resultado. Ver a situação
+abaixo:
+Para a Adição: 𝑎 + 𝑏 = 𝑏 + 𝑎
+Para a Multiplicação: a x b = b x a
+Exemplo:
+Para a Adição: 12 + 5 = 5 + 12
+Para a Multiplicação: 12 x 5 = 5 x 12
+TETUN: Bainhira orden termu sira nian la muda rezultadu. Haree situasaun iha kraik:
+Ba Adisaun (tau tan): 𝑎 + 𝑏 = 𝑏 + 𝑎
+Ba Multiplikasaun (Dala): a x b = b x a
+Ezemplu Sira:
+104
+
+Ba Adisaun (tau tan): 12 + 5 = 5 + 12
+Ba Multiplikasaun (Dala): 12 x 5 = 5 x 12
+
+Propriedade do Elemento Neutro (Propriedade Elementu Neutru
+Nian)
+PORTUGUÊS: É o número que quando está na operação não altera o resultado.
+Para a Adição: 𝑎 + 0 = 0 + 𝑎
+Para a Multiplicação: a x 1 = 1 x a
+Exemplo:
+Para a Adição: 20 + 0 = 0 + 20
+Para a Multiplicação: 13 x 1 = 1 x 13
+TETUN: Maka númeru ne´ebé bainhira iha operasaun nia laran la muda nia rezultadu.
+Ba Adisaun (tau tan): 𝑎 + 0 = 0 + 𝑎
+Ba Multiplikasaun (Dala):: a x 1 = 1 x a
+Ezemplu:
+Ba Adisaun (tau tan): 20 + 0 = 0 + 20
+Ba Multiplikasaun (Dala):: 13 x 1 = 1 x 13
+
+Propriedade do Fechamento (Propriedade Naktaka Nian)
+PORTUGUÊS: É quando o resultado da operação com dois números de um mesmo
+conjunto resulta em um valor do mesmo conjunto.
+105
+
+Exemplo: Adição de números naturais resulta em um número natural.
+13 + 15 = 28
+
+13 ∈ ℕ ; 15 ∈ ℕ 𝑒 28 ∈ ℕ
+
+TETUN: Maka bainhira rezultadu ba operasaun ho númeru rua hosi konjuntu ida
+hanesan hamosu mós valór ida hosi konjuntu hanesan.
+Ezemplu: Adisaun (tau tan) ba númeru naturál sira hamosu mós númeru naturál ida.
+13 + 15 = 28
+
+13 ∈ ℕ ; 15 ∈ ℕ 𝑒 28 ∈ ℕ
+
+Prova (Prova)
+PORTUGUÊS: É o segundo momento da resolução de um problema, utilizado para
+verificar se a resposta está correta ou errada.
+TETUN: Maka momentu daruak ba rezolusaun hosi problema ida, utiliza atu verifika
+fali resposta ne´e loos ka lae.
+
+Quadrado (Kuadradu)
+PORTUGUÊS: Na geometria é o polígono que possui 4 lados iguais. Na aritmética ou
+álgebra é a multiplicação de um número por ele mesmo.
+Para a geometria:
+
+Figura 54 – Quadrado
+
+Para a aritmética ou álgebra:
+106
+
+52 = 5 𝑥 5 = 25
+TETUN: iha Jeometria maka polígonu ne´ebé iha ladu (sorin) 4 hanesan. Iha aritmétika
+ka áljebra maka multiplikasaun númeru ida ho númeru ne’e rasik.
+Ba jeometria:
+
+Figura 55 – Kuadradu
+
+Ba aritmétika ka áljebra:
+52 = 5 𝑥 5 = 25
+
+Quadrantes (Kuadrante Sira)
+PORTUGUÊS: É cada região quando se tem dois eixos ortogonais.
+
+Figura 56 – Representação de quadrantes
+
+TETUN: Maka rejiaun ida-idak bainhira iha eixu ortagonál rua.
+
+107
+
+Figura 57 – Reprezentasaun hosi kuadrante sira
+
+Quadriláteros (Kuadriláteru Sira)
+PORTUGUÊS: Polígono com 4 linhas retas.
+TETUN: Polígonu ho liña reta haat.
+
+Quilograma (Kilograma)
+PORTUGUÊS: Unidade de massa. Símbolo: Kg.
+TETUN: Unidade hosi bokar. Símbolu: Kg.
+
+Quilômetro (Kilómetru)
+PORTUGUÊS: Unidade de comprimento que equivale a 1000 m (mil metros). Símbolo:
+km.
+TETUN: Unidade hosi naruk ne´ebé hanesan 1000 m (metru rihun ida). Símbolu: km.
+
+Quociente (Kosiente)
+PORTUGUÊS: É o valor resultante da divisão entre o dividendo e o divisor. Exemplo:
+Ver em TETUN.
+TETUN: Maka valór ne’ebé resulta hosi divizaun entre dividendu no divizór. Ezemplu:
+108
+
+Quociente é o 6 (seis).
+Kosiente maka 6 (neen).
+
+Radiano (Radianu)
+PORTUGUÊS: Unidade de medida angular. Símbolo: rad.
+TETUN: Unidade ba sukat sikun. Símbolu : rad.
+
+Radiciação (Radisiasaun)
+PORTUGUÊS: Operação inversa da potenciação. Deve-se pensar em uma divisão
+repetida. Exemplo:
+81 ÷ 𝟗 = 9 ÷ 𝟗 = 1 √81 = 9
+TETUN: Operasaun inversa hosi potensiasaun. Tenke hanoin iha divizaun ida tuituir
+malu. Ezemplu:
+81 ÷ 𝟗 = 9 ÷ 𝟗 = 1 √81 = 9
+
+Raio (Raiu)
+PORTUGUÊS: Segmento de reta que vai do centro até a circunferência.
+TETUN: Segmentu liña ne´ebé sai hosi klaran to´o sirkunferénsia.
+
+Figura 58 – Representação de Raio (Reprezentasaun hosi Raiu)
+109
+
+Raiz Quadrada (Rais Kuadradu)
+PORTUGUÊS: A origem do símbolo vem da palavra alemã radix.
+√𝑎 = 𝑏 ⟷ 𝑏 2 = 𝑎 𝑜𝑛𝑑𝑒: 𝑎 ∈ ℝ+ 𝑒 𝑏 ∈ ℝ+
+Exemplos:
+Ex.1: √100 = 10
+Ex.2: √144 = 12
+TETUN: Símbolu nia orijen mai hosi liafuan alemaun radix.
+√𝑎 = 𝑏 ⟷ 𝑏 2 = 𝑎 𝑜𝑛𝑑𝑒: 𝑎 ∈ ℝ+ 𝑒 𝑏 ∈ ℝ+
+Ezemplu sira:
+Ex.1: √100 = 10
+Ex.2: √144 = 12
+
+Razão (Razaun)
+PORTUGUÊS: Relação existente entre dois elementos.
+3
+
+Exemplos: Ex.1 - Comi 3 dos 8 pedaços de pizza. Então a razão é 8 .
+3
+
+Ex.2 – Em um barlaque, o tio ficou com 3 dos 22 bufalos. Então a razão é 22 .
+TETUN: Relasaun ne´ebé iha entre elementu rua.
+3
+
+Ezemplu sira: Ex.1 - Han pedasu 3 hosi pizza pedasu 8. Ne’e be razaun maka 8 .
+3
+
+Ex.2 – Iha barlake ida, tiu hetan karau 3 hosi karau 22. Ne’e be razaun maka 22 .
+110
+
+Recíproco (Resíproku)
+PORTUGUÊS: Também chamado de inverso do número. (Ver Inverso)
+TETUN: Hanaran mós númeru inversu. (Haree inversu)
+
+Regra de Sarrus (Regra Sarrus Nian)
+PORTUGUÊS: Método para cálculo de determinante de matriz quadrada de ordem 3.
+Exemplo:
+3
+2 1 3
+2
+𝑀𝑎𝑡𝑟𝑖𝑧 𝑞𝑢𝑎𝑑𝑟𝑎𝑑𝑎 3𝑥3 = |−2 4 0| −2 4
+0 −1 2 0 −1
+= [(3.4.2) + (2.0.0) + (1. (−2). (−1))] − [(1.4.0) + (3.0. −1) + (2. (−2). 2)]
+= (24 + 0 + 2) − [0 + 0 + (−8)] = 26 + 8 = 34
+TETUN: Métodu atu halo kálkulu determinante ba matrís kuadradu hosi orden 3.
+Ezemplu:
+3
+2
+𝑀𝑎𝑡𝑟í𝑠 𝑘𝑢𝑎𝑑𝑟𝑎𝑑𝑎 3𝑥3 = |−2 4
+0 −1
+
+1 3
+2
+0| −2 4
+2 0 −1
+
+= [(3.4.2) + (2.0.0) + (1. (−2). (−1))] − [(1.4.0) + (3.0. −1) + (2. (−2). 2)]
+= (24 + 0 + 2) − [0 + 0 + (−8)] = 26 + 8 = 34
+
+Regra de Três (Regra Tolu Nian)
+PORTUGUÊS: Processo prático e muito utilizado para resolver problemas que
+envolvam proporções.
+
+111
+
+Exemplo: Descobrir a altura da Casa Sagrada.
+Luiz tem 1,5 m (um metro e meio) de altura, em certa hora do dia ele tem uma sombra
+de 1 m (um metro), no mesmo instante a casa sagrada tem a sombra de 6 m (seis
+metros). Qual é a altura da Casa Sagrada?
+𝐴𝐿𝑇𝑈𝑅𝐴
+1,5 𝑚
+𝑥
+
+𝑆𝑂𝑀𝐵𝑅𝐴
+1𝑚
+6𝑚
+
+1,5
+𝑥
+
+=
+
+1
+6
+
+→ 𝑥 . 1 = 1,5 . 6 → 𝑥 = 9,0 𝑚
+
+TETUN: Prosesu prátiku no utiliza liu atu rezolve problema sira ne´ebé kona-ba
+proporsaun sira.
+Ezemplu: Buka hetan Uma Lulik nia aas.
+Luiz aas 1,5 m (metru ida ho balun), iha oras balu nia laran nia iha lalatak 1 m (metru
+ida). Iha tempu ne’ebé hanesan uma lulik nia lalatak 6 m (metru neen). Uma Lulik nia
+aas hira?
+𝐴𝑎𝑠
+1,5 𝑚
+𝑥
+
+𝑙𝑎𝑙𝑎𝑡𝑎𝑘
+1𝑚
+6𝑚
+
+1,5
+𝑥
+
+=
+
+1
+6
+
+→ 𝑥 . 1 = 1,5 . 6 → 𝑥 = 9,0 𝑚
+
+Regra dos Sinais (Regra Ba Sinál Sira)
+PORTUGUÊS: Na multiplicação e divisão tem-se:
+
+
+(+)(+) = (+)
+
+
+
+(−)(−) = (+)
+
+
+
+(+)(−) = (−)
+
+
+
+(−)(+) = (−)
+
+Exemplos:
+
+112
+
+
+
+(+3). (+2) = +6
+
+
+
+(−5). (−2) = +10
+
+
+
+(+14): (−2) = −7
+
+
+
+(−4). (+3) = −12
+
+TETUN: Iha multiplikasaun (dala) no divizaun (hafahe) iha:
+
+
+(+)(+) = (+)
+
+
+
+(−)(−) = (+)
+
+
+
+(+)(−) = (−)
+
+
+
+(−)(+) = (−)
+
+Ezemplu sira:
+
+
+(+3). (+2) = +6
+
+
+
+(−5). (−2) = +10
+
+
+
+(+14): (−2) = −7
+
+
+
+(−4). (+3) = −12
+
+Resto (Restu/Resin)
+PORTUGUÊS: Na operação de subtração é o resultado.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜
+− 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+𝑅𝑒𝑠𝑡𝑜
+ou seja:
+
+𝑅𝑒𝑠𝑡𝑜 = 𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜 − 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+
+Na operação de divisão é a diferença entre o dividendo e o produto do quociente
+com o divisor.
+113
+
+R = D − (q. d)
+
+Onde: R=resto, D=Dividendo, q=quociente e d=divisor.
+
+TETUN: Iha operasaun subtrasaun (kuran) nian maka rezultadu.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢
+− 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢/ℎ𝑎𝑚𝑒𝑛𝑢𝑠
+𝑅𝑒𝑠𝑡𝑢/𝑟𝑒𝑠𝑖𝑛
+katak:
+
+𝑅𝑒𝑠𝑡𝑢/𝑟𝑒𝑠𝑖𝑛 = 𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢 − 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢/ℎ𝑎𝑚𝑒𝑛𝑢𝑠
+
+Iha operasaun divizaun (hafahe) nian maka diferensa entre dividendu no produtu
+(dala) hosi kosiente ho divizór.
+R = D − (q. d)
+
+Ne´ebé: R= restu/resin, D=Dividendu, q=kosiente no d=divizór.
+
+Reta (Reta)
+PORTUGUÊS: Conceito chamado de primitivo, assim como o ponto e o plano. A reta é
+um conjunto infinito de pontos ou a intersecção de dois planos.
+TETUN: Konseitu ne’ebé hanaran primitivu, hanesan mós ho pontu no planu. Reta
+maka konjuntu rohan-laek hosi pontu sira ka interseksaun hosi planu rua.
+
+Figura 59 – Reta (Reta)
+
+Retângulo (Retángulu)
+PORTUGUÊS: Paralelogramo com 4 ângulos retos.
+TETUN: Paralelogramu ho sikun siku 4.
+
+114
+
+Figura 60 – Retângulo (Retángulu)
+
+Secante (Sekante)
+PORTUGUÊS: Relação entre a hipotenusa e o cateto adjacente ou é a reta que tem dois
+pontos de interceptação com a circunferência.
+TETUN: Relasaun kona-ba ipotenuza ho katetu adjasente ka maka reta ne’ebé iha pontu
+interseptasaun rua ho sirkunferénsia.
+
+Figura 61 – Triângulo Retângulo (Triángulu Retángulu)
+
+𝑆𝑒𝑐𝑎𝑛𝑡𝑒 =
+
+𝐻𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎
+𝑐
+→ 𝑆𝑒𝑐 𝛼 =
+𝐶𝑎𝑡𝑒𝑡𝑜 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡𝑒
+𝑏
+
+𝑆𝑒𝑘𝑎𝑛𝑡𝑒 =
+
+𝐼𝑝𝑜𝑡𝑒𝑛𝑢𝑧𝑎
+𝑐
+→ 𝑆𝑒𝑐 𝛼 =
+𝐾𝑎𝑡𝑒𝑡𝑢 𝐴𝑑𝑗𝑎𝑠𝑒𝑛𝑡𝑒
+𝑏
+
+115
+
+Figura 62 – Circunferência com reta secante (Sirkunferénsia ho reta sekante)
+
+Segmento de Reta (Segmentu Reta)
+PORTUGUÊS: Reta que tem ponto de início e fim.
+TETUN: Reta (liña) ne’ebé iha pontu uluk (hahun) no ikus (rohan).
+
+Figura 63 – Segmento de reta (Segmentu reta)
+
+Semicírculo (Semisírkulu)
+PORTUGUÊS: Quando dividimos o círculo pela metade temos dois semicírculos.
+TETUN: Bainhira hafahe sírkulu ba balun sei iha semisírkulu rua.
+
+Semireta (Semireta)
+PORTUGUÊS: Reta que tem início e não tem fim.
+TETUN: Reta ne’ebé iha uluk (hahun) no la iha ikus (rohan).
+
+Figura 64 – Semireta (Semireta)
+
+116
+
+Seno (Senu)
+PORTUGUÊS: Relação do cateto oposto com a hipotenusa.
+TETUN: Relasaun kona-ba katetu opostu ho ipotenuza.
+
+Figura 65 – Triângulo Retângulo (Triángulu Retángulu)
+
+𝑆𝑒𝑛𝑜
+
+𝐶𝑎𝑡𝑒𝑡𝑜 𝑂𝑝𝑜𝑠𝑡𝑜
+𝑎
+→ 𝑆𝑒𝑛 𝛼 =
+𝐻𝑖𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑎
+𝑐
+
+𝑆𝑒𝑛𝑢 =
+
+𝐾𝑎𝑡𝑒𝑡𝑢 𝑂𝑝𝑜𝑠𝑡𝑢
+𝑎
+→ 𝑆𝑒𝑛 𝛼 =
+𝐼𝑝𝑜𝑡𝑒𝑛𝑢𝑧𝑎
+𝑐
+
+Símbolo (Símbolu)
+PORTUGUÊS: Marca que representa uma determinada palavra. A seguir, uma tabela
+com alguns símbolos:
+TETUN: Marka ne’ébé representa liafuan balu. Tuirmai, tabela ida ho símbulu sira balu:
+Tabela 18 – Alguns símbolos Matemáticos (Símbolu Matemátiko balu sira)
+Português
+TETUN
+Símbolo
+(Símbolu)
+Adisaun ka Tau
+Adição / Positivo
++
+tan / Positivu
+Konjuntu
+Conjunto vazio
+{ } ou ∅
+mamuk
+Contém
+Iha
+⊃
+Diferente
+La hanesan
+≠
+Divisão
+Divizaun ka
+÷ ou :
+117
+
+Hafahe
+Ekivalénsia
+Iha laran
+Iha hela
+Hanesan
+Infinitu ka
+Rohan-laek
+Interseksaun ka
+Hasoru malu
+Boot liu ka
+hanesan
+Boot liu hosi
+Ki’ik liu ka
+hanesan
+Ki’ik liu hosi
+Multiplikasaun /
+dala
+La iha hela
+La tama laran
+Tama laran
+Ba sasá de’it
+Subtrasaun ka
+hasai ka kuran /
+Negativu
+No ne’e
+Uniaun
+
+Equivalência
+Está contido
+Existe
+Igual
+Infinito
+Intersecção
+Maior ou igual
+Maior que
+Menor ou igual
+Menor que
+Multiplicação
+Não existe
+Não pertence
+Pertence
+Qualquer que seja
+Subtração / Negativo
+Tal que
+União
+
+↔
+⊂
+∃
+=
+∞
+∩
+≥
+>
+≤
+<
+x ou .
+∄
+∉
+∈
+∀
+/
+∪
+
+Simplificação de Radicais (Simplifikasaun hosi Radikál sira)
+PORTUGUÊS: Encontrar fração equivalente em que o denominador não seja um
+radical. Exemplo:
+
+1
+√7
+
+=
+
+1 . √7
+√7 . √7
+
+=
+
+√7
+7
+
+TETUN: Hetan frasaun ekivalente ne’ebé nia denominadór la’os radikál. Ezemplu:
+
+1
+√7
+
+=
+
+1 . √7
+√7 . √7
+
+=
+
+√7
+7
+
+118
+
+Sinais (Sinál Sira)
+PORTUGUÊS: Indicação abreviada de operação.
+TETUN: Matuduk ne’ebé habadak hosi operasaun.
+
+Sistema (Sistema)
+PORTUGUÊS: Conjunto de elementos com alguma coisa em comum.
+Exemplo: Conjunto dos números pares {2,4,6,8,...}
+TETUN: Konjuntu hosi Elementu sira ho buat ruma komún.
+Ezemplu: Konjuntu númeru pár sira {2,4,6,8,...}
+
+Subtração (Subtrasaun / Hasai / Kuran)
+PORTUGUÊS: Operação matemática utilizada para achar a diferença entre duas
+quantidades.
+Ex.: 13 − 5 = 8 (𝑡𝑟𝑒𝑧𝑒 𝑚𝑒𝑛𝑜𝑠 𝑐𝑖𝑛𝑐𝑜 é 𝑖𝑔𝑢𝑎𝑙 𝑎 𝑜𝑖𝑡𝑜)
+TETUN: Operasaun matemátika ne’ebé utiliza hodi buka-hetan diferensa entre
+kuantidade sira.
+Ex.: 13 − 5 = 8 (𝑆𝑎𝑛𝑢𝑙𝑢 − 𝑟𝑒𝑠𝑖𝑛 − 𝑡𝑜𝑙𝑢 ℎ𝑎𝑠𝑎𝑖 (𝑘𝑢𝑟𝑎𝑛) 𝑙𝑖𝑚𝑎 ℎ𝑎𝑛𝑒𝑠𝑎𝑛 𝑢𝑎𝑙𝑢)
+
+Subtraendo (Subtraendu / Hamenus)
+PORTUGUÊS: Um dos termos da operação de subtração.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜
+− 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜
+𝑅𝑒𝑠𝑡𝑜
+119
+
+𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑜 = 𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑜 − 𝑅𝑒𝑠𝑡𝑜
+
+ou seja:
+
+TETUN: Termu ida hosi operasaun subtrasaun nian.
+
+𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢
+− 𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢/ℎ𝑎𝑚𝑒𝑛𝑢𝑠
+𝑅𝑒𝑠𝑡𝑢/𝑅𝑒𝑠𝑖𝑛
+Katak:
+
+𝑆𝑢𝑏𝑡𝑟𝑎𝑒𝑛𝑑𝑢/ℎ𝑎𝑚𝑒𝑛𝑢𝑠 = 𝑀𝑖𝑛𝑢𝑒𝑛𝑑𝑢 − 𝑅𝑒𝑠𝑡𝑢/𝑅𝑒𝑠𝑖𝑛
+
+Tangente (Tanjente)
+PORTUGUÊS: Relação do cateto oposto com o cateto adjacente.
+TETUN: Relasaun kona-ba katetu opostu ho katetu adjasente.
+
+Figura 66 – Triângulo Retângulo (Triángulu Retángulu)
+
+𝑇𝑎𝑛𝑔𝑒𝑛𝑡𝑒 =
+
+𝐶𝑎𝑡𝑒𝑡𝑜 𝑂𝑝𝑜𝑠𝑡𝑜
+𝐶𝑎𝑡𝑒𝑡𝑜 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡𝑒
+
+→ 𝑇𝑔 𝛼 =
+
+𝑎
+𝑏
+
+𝑇𝑎𝑛𝑗𝑒𝑛𝑡𝑒 =
+
+𝐾𝑎𝑡𝑒𝑡𝑢 𝑂𝑝𝑜𝑠𝑡𝑢
+𝐾𝑎𝑡𝑒𝑡𝑢 𝐴𝑑𝑗𝑎𝑠𝑒𝑛𝑡𝑒
+
+→ 𝑇𝑔 𝛼 =
+
+𝑎
+𝑏
+
+Tangram (Tangram)
+PORTUGUÊS: Quebra-cabeça chinês, utilizado para estudos geométricos.
+TETUN: Fera-ulun xinés, ne’ebé utiliza ba estudu jeométriku sira.
+120
+
+Teorema (Teorema)
+PORTUGUÊS: Proposição aceita somente com demonstração.
+TETUN: Propozisaun aseita/simu de’it ho demonstrasaun.
+
+Termo (Termu)
+PORTUGUÊS: É cada um dos elementos que compõe uma situação.
+TETUN: Maka elementu sira ida-idak ne’ebé forma hamutuk iha situasaun ida.
+
+Tetraedro (Tetraedru)
+PORTUGUÊS: Sólido geométrico formado por 4 triângulos.
+TETUN: Sólidu jeométriku ne’ebé iha triángulu 4.
+
+Trapézio (Trapéziu)
+PORTUGUÊS: Quadrilátero com dois de seus lados paralelos. Esses lados são
+chamados de base maior e base menor. Exemplo: Ver em TETUN.
+TETUN: Kuadriláteru ho nia sorin paralelu rua. Sorin-sorin sira ne’e maka bolu baze
+boot liu no baze ki’ik liu. Ezemplu:
+
+Figura 67– Exemplo de Trapézio (Ezemplu hosi Trapéziu)
+
+121
+
+Triângulo (Triángulu)
+PORTUGUÊS: Polígono com três lados e três ângulos. A soma dos ângulos internos
+vale 180º.
+TETUN: Polígonu ho sorin tolu no sikun tolu. Tau hamutuk sikun laran sai 180º.
+
+Trigonometria (Trigonometria)
+PORTUGUÊS: Parte da Matemática que estuda situações relativas aos triângulos.
+TETUN: Parte ida hosi Matemátika ne’ebé estuda situasaun kona-ba triángulu sira.
+
+Unidade (Unidade)
+PORTUGUÊS: É o número 1 (um) ou quantidade de algo.
+TETUN: Maka númeru 1 (ida) ka kuantidade hosi buat ruma.
+
+Valor Absoluto (Valór Absolutu)
+PORTUGUÊS: Também chamado de módulo de um número. Ver módulo.
+TETUN: Bolu mós módulu ba númeru ida. Haree módulu.
+
+Valor Médio (Valór Médiu)
+PORTUGUÊS: Ver Média.
+TETUN: Haree média.
+
+Variável (Variavel)
+PORTUGUÊS: Determinada situação que pode assumir vários valores.
+
+122
+
+TETUN: Sitasaun balu ne´ebé bele hetan valór sira oioin.
+
+Vertical (Vertikál)
+PORTUGUÊS: Linha imaginária perpendicular ao horizonte.
+TETUN: Liña imajinária perpendikulár ba orizonte.
+
+Vértice (Vértise)
+PORTUGUÊS: Ponto de intersecção de duas retas.
+TETUN: Pontu interseksaun hosi reta rua.
+
+Volume (Volume)
+PORTUGUÊS: Espaço ocupado pelo corpo.
+TETUN: Fatin ne’ebé okupa ho isin.
+
+123
+
+Tabela de nomes Tétum – Português
+(Tabela hosi naran Tetun - Portugés)
+TETUN
+Aas
+Absisa
+Adisaun / Tau tan
+Adjasente
+Aksioma
+Akutángulu
+Áljebra
+Apótema Pirámide nian
+Aprosimasaun
+Área
+Aresta
+Aritmétika
+Arku
+Barisentru
+Baze
+Binómiu
+Bisetriz hosi sikun ida
+Boot liu
+Dadus
+Definisaun
+Dekompozisaun
+Denominadór
+Derivada
+Desigualdade
+Desimál
+Desviu Médiu
+Determinante
+Diagonál
+Diámetru
+Diferensa
+Dimensaun
+Dividendu
+Divisaun / Hafahe
+Divisór
+Divizibilidade
+Divizór / Hafahe Komun Boot liu
+Domíniu
+Eixu
+Ekiángulu
+Ekidistante
+Ekiláteru
+Eksaedru
+
+PORTUGUÊS
+Altura
+Abscissa
+Adição
+Adjacente
+Axioma
+Acutângulo
+Álgebra
+Apótema da Pirâmide
+Aproximação
+Área
+Aresta
+Aritmética
+Arco
+Baricentro
+Base
+Binômio
+Bissetriz de um ângulo
+Maior
+Dados
+Definição
+Decomposição
+Denominador
+Derivada
+Desigualdade
+Decimal
+Desvio Médio
+Determinante
+Diagonal
+Diâmetro
+Diferença
+Dimensão
+Dividendo
+Divisão
+Divisor
+Divisibilidade
+Maior Divisor Comum
+Domínio
+Eixo
+Equiângulo
+Equidistante
+Equilátero
+Hexaedro
+124
+
+Ekuasaun
+Elementu
+Elípse
+Esfera
+Espoente
+Espressaun
+Ezatu
+Fatór
+Fatór Primu
+Finitu
+Fórmula
+Frasaun
+Frekuénsia
+Funsaun
+Gráfiku
+Grandeza
+Grau
+Halakon Parénteze sira
+Hanesan ka Hanesan-sira
+Identidade
+Idéntiku
+Imajen
+Ímpar ka La-pár
+Índise
+Inekuasaun
+Inekuasaun 1º grau nian
+Inekuasaun 2º grau nian
+Infinitu / hotu-laek
+Inkluzaun
+Inkógnita
+Inskritu
+Integrál
+Intervalu ba númeru real sira
+Intervalu Nakloke
+Intervalu Naktaka
+Inversu
+Ipérbole
+Ipotenuza
+Jeometria
+Jeometria Analítika
+Jeometria Espasu
+Jeometria Métrika la Euclidiana
+Jeometria Plana
+Jeratriz
+Jurus Kompostu
+Jurus Simples
+Kálkulu
+
+Equação
+Elemento
+Elipse
+Esfera
+Expoente
+Expressão
+Exato
+Fator
+Fator Primo
+Finito
+Fórmula
+Fração
+Frequência
+Função
+Gráfico
+Grandeza
+Grau
+Eliminar os Parênteses
+Igual ou Iguais
+Identidade
+Idêntico
+Imagem
+Ímpar
+Índice
+Inequação
+Inequação do 1º Grau
+Inequação do 2º Grau
+Infinito
+Inclusão
+Incógnita
+Inscrito
+Integral
+Intervalos de Números Reais
+Intervalo Aberto
+Intervalo Fechado
+Inverso
+Hipérbole
+Hipotenusa
+Geometria
+Geometria Analítica
+Geometria do Espaço
+Geometria Métrica não euclidiana
+Geometria Plana
+Geratriz
+Juros Compostos
+Juros Simples
+Cálculo
+125
+
+Katetu
+Katetu Adjasente
+Katetu Opostu
+Ki'ik liu
+Kilograma
+Kilómetru
+Klaran / Mediana
+Koefisiente
+Kolinear sira
+Kombinasaun
+Komparar
+Kone
+Konjuntu / Lubun
+Kontra-ezempllu
+Koordenada sira
+Korda
+Ko-sekante
+Kosenu
+Kosiente
+Kuadradu
+Kuadrante sira
+Kuadriláteru sira
+Kubu
+Limite
+Liña
+Lineár
+Lójika
+Lozangu
+Luan
+Másimu Divizór Komun
+Matemátika
+Matris
+Média
+Metru
+Metru Kúbiku
+Metru pur segundu
+Mínimu Múltiplu Komun
+Minuendu
+Módulu
+Monómiu
+Mosu uluk
+Multiplikasaun / Dala
+Múltiplu
+Múltiplu Komun Ki'ik liu
+Naruk
+Numerál
+Númeru
+
+Cateto
+Cateto Adjacente
+Cateto Oposto
+Menor
+Quilograma
+Quilômetro
+Mediana
+Coeficiente
+Colineares
+Combinação
+Comparar
+Cone
+Conjunto
+Contra-exemplo
+Coordenadas
+Corda
+Co-secante
+Coseno
+Quociente
+Quadrado
+Quadrantes
+Quadriláteros
+Cubo
+Limite
+Linha
+Linear
+Lógica
+Losango
+Largura
+Máximo Divisor Comum
+Matemática
+Matriz
+Média
+Metro
+Metro Cúbico
+Metro por Segundo
+Mínimo Múltiplo Comum
+Minuendo
+Módulo
+Monômio
+Antecedente
+Multiplicação
+Múltiplo
+Menor Múltiplo Comum
+Comprimento
+Numeral
+Número
+126
+
+Númeru Arábiku sira
+Númeru Desimál
+Númeru Imajináriu sira
+Númeru Inteiru sira
+Númeru Irrasionál sira
+Númeru Kardinál
+Númeru Kompleksu sira
+Númeru Naturál sira
+Númeru Ordinál sira
+Númeru PI
+Númeru primu entre sira
+Númeru primu sira
+Númeru Rasionál sira
+Númeru Reál sira
+Númeru Romanu sira
+Oblíkuu
+Orden
+Ordenada
+Origem
+Orizontál
+Ortogonál
+Par Ordenadu
+Parábola
+Paralelepípedu
+Paralelogramu
+Paralelu
+Parsela sira
+Pentágonu
+Perímetru / Hale'u
+Permutasaun
+Perpendikulár
+Persentajen
+Pirámide
+Planu
+Poliedru
+Polígonu
+Polinómiu
+Pontu
+Porsentajen
+Postuladu
+Poténsia
+Primu sira
+Prizma
+Probabilidade
+Problema
+Produtu
+Produtu Kartezianu
+
+Números Arábicos
+Número Decimal
+Números Imaginários
+Números Inteiros
+Números Irracionais
+Número Cardinal
+Números Complexos
+Números Naturais, Conjunto
+Números Ordinais
+Número Pi
+Números Primos entre Si
+Números Primos
+Números Racionais, Conjunto
+Números Reais, Conjunto
+Números Romanos
+Oblíquo
+Ordem
+Ordenada
+Origem
+Horizontal
+Ortogonal
+Par Ordenado
+Parábola
+Paralelepípedo
+Paralelogramo
+Paralelo
+Parcelas
+Pentágono
+Perímetro
+Permutação
+Perpendicular
+Percentagem
+Pirâmide
+Plano
+Poliedro
+Polígono
+Polinômio
+Ponto
+Porcentagem
+Postulado
+Potência
+Primos
+Prisma
+Probabilidade
+Problema
+Produto
+Produto Cartesiano
+127
+
+Produtu Notavel sira
+Progresaun Aritmétika
+Progresaun Jeométrika
+Proporsaun
+Propriedade Asosiativa
+Propriedade Elementu Neutru
+nian
+Propriedade Komutativa
+Propriedade naktaka nian
+Prova
+Radianu
+Radisiasaun
+Rais Kuadradu
+Raiu
+Razaun
+Regra ba Sinál sira
+Regra Sarrus nian
+Regra Tolu nian
+Resíproku
+Restu / Resin
+Reta
+Retángulu
+Segmentu Reta
+Sekante
+Semireta
+Semisírkulu
+Senu
+Sikun
+Sikun Agudu
+Sikun Komplementár
+Sikun Obtuzu
+Sikun Siku
+Sikun Suplementár
+Silindru
+Símbolu
+Simplifikasaun hosi Radikál sira
+Sinál sira
+Sírkulu
+Sirkunferénsia
+Sistema
+Sorin / Ladu
+Subtraendu / Hamenus
+Subtrasaun / Hasai / Kuran
+Tangram
+Tanjente
+Teorema
+Termu
+
+Produtos Notáveis
+Progressão Aritmética
+Progressão Harmônica
+Proporção
+Propriedade Associativa
+Propriedade do Elemento Neutro
+Propriedade Comutativa
+Propriedade do Fechamento
+Prova
+Radiano
+Radiciação
+Raiz Quadrada
+Raio
+Razão
+Regra dos Sinais
+Regra de Sarrus
+Regra de Três
+Recíproco
+Resto
+Reta
+Retângulo
+Segmento de Reta
+Secante
+Semireta
+Semicírculo
+Seno
+Ângulo
+Ângulo Agudo
+Ângulo Complementar
+Ângulo Obtuso
+Ângulo Reto
+Ângulo Suplementar
+Cilindro
+Símbolo
+Simplificação de Radicais
+Sinais
+Círculo
+Circunferência
+Sistema
+Lado
+Subtraendo
+Subtração
+Tangram
+Tangente
+Teorema
+Termo
+128
+
+Tetraedru
+Trapéziu
+Triángulu
+Trigonometria
+Unidade
+Valór Absolutu
+Valór Médiu
+Variavel
+Vertikál
+Vértise
+Volume
+
+Tetraedro
+Trapézio
+Triângulo
+Trigonometria
+Unidade
+Valor Absoluto
+Valor Médio
+Variável
+Vertical
+Vértice
+Volume
+
+129
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+(REFERÉNSIA BIBLIOGRÁFIKA SIRA)
+BUKA HATENE. Disionáriu Tetun-Portugés-Indonéziu. 1ª edição. Instituto
+Nacional de Linguística (INL). 2005.
+CARDOSO, L. F. Dicionário de Matemática. Rio de Janeiro: Expressão e cultura,
+2001.
+DOLCE, O.; POMPEU, J. N. Fundamentos de Matemática Elementar, 9: Geometria
+Plana. 7ª edição. São Paulo: Atual, 1993.
+DOLCE, O.; POMPEU, J. N. Fundamentos de Matemática Elementar, 10:
+Geometria Espacial. São Paulo: Atual, 1993.
+GIOVANNI, J. R.; GIOVANNI JR. J. R. Matemática pensar e descobrir, 8: Giovanni
+& Giovanni Jr. São Paulo: FTD, 1996.
+HULL. G. S.; CORREIA, A. J. G. Kursu Gramátika Tetun. 1ª edição. Instituto
+Nacional de Linguística (INL). 2005.
+IEZZI, G. Fundamentos de Matemática Elementar, 3: Trigonometria. 2ª edição. São
+Paulo: Atual, 1977-78.
+IEZZI, G.; MURAKAMI, C.; MACHADO, N. J. Fundamentos de Matemática
+Elementar, 8: Limites, Derivadas e Noções de Integral. 3ª edição. São Paulo: Atual,
+1977-78.
+SENTRU LINGUA DILI INSTITUTE OF TECHNOLOGY. Word-Finder: EnglishTetun / Tetun-Ingles. 2008.
+SOARES, J. B. Dicionário de Matemática. [S.L.]: Hemus, 2005.
+
+130
+
+DICIONÁRIO DE FUNDAMENTOS
+ELEMENTARES DA MATEMÁTICA
+(PORTUGUÊS E TÉTUM)
+
+DISIONÁRIU BA FUNDAMENTU
+ELEMENTÁR SIRA MATEMÁTIKA
+NIAN
+(PORTUGÉS NO TETUN)
+
+
