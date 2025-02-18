@@ -1,0 +1,18 @@
+[project]
+name = "remove_dupe_lines"
+version = "0.1.0"
+description = """A CLI tool to remove duplicate lines from a file."""
+authors = [
+    { name="André Alves", email="alvescastroandre40@gmail.com" }
+]
+dependencies = [
+    "jjcli"
+]
+license = { text = "MIT" }
+
+[project.scripts]
+rdl = "remove_dupe_lines:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
