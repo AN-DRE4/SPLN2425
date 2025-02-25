@@ -7,11 +7,16 @@ def lexer(txt):
     return re.findall(r'(\w+(?:-\w+)*)|[^\w\s]+', txt)
 
 def pretty_print(frequencies, relative_frequencies, option):
+    tokens_sorted_abs = sorted(frequencies.items(), key=lambda x: x[1][0], reverse=True)
+    tokens_sorted_rel = sorted(relative_frequencies.items(), key=lambda x: x[1][1], reverse=True)
+    if "-s" in option:
+        tokens_sorted_abs = tokens_sorted_abs[:700]
+        tokens_sorted_rel = tokens_sorted_rel[:700]
     if "-a" in option:
-        for token, (count, freq) in sorted(frequencies.items(), key=lambda x: x[1][0], reverse=True):
+        for token, (count, freq) in tokens_sorted_abs:
             print(f"{token}\t{count}\t{freq:.6f}")
     else:
-        for token, (count, freq) in sorted(relative_frequencies.items(), key=lambda x: x[1][1], reverse=True):
+        for token, (count, freq) in tokens_sorted_rel:
             print(f"{token}\t{count}\t{freq:.6f}")
 
 def counter(tokens):
@@ -51,6 +56,31 @@ def get_frequencies(counter, total=None):
         return {token: (count, 0.0) for token, count in counter.items()}
     
     return {token: (count, count/total) for token, count in counter.items()}
+
+def ratio(freq1, freq2, smoothing=0.01):
+    """Calculate the ratio between two frequency distributions.
+    
+    Args:
+        freq1: First frequency dictionary (output from get_frequencies)
+        freq2: Second frequency dictionary (output from get_frequencies)
+        smoothing: Smoothing factor to avoid division by zero (default: 0.01)
+    
+    Returns:
+        Dictionary with tokens as keys and ratio values (freq1/freq2) as values
+    """
+    # Get all unique tokens from both distributions
+    all_tokens = set(freq1.keys()) | set(freq2.keys())
+    
+    ratios = {}
+    for token in all_tokens:
+        # Get relative frequencies, defaulting to smoothing value if not present
+        f1 = freq1.get(token, (0, smoothing))[1] if token in freq1 else smoothing
+        f2 = freq2.get(token, (0, smoothing))[1] if token in freq2 else smoothing
+        
+        # Calculate ratio
+        ratios[token] = f1 / f2
+    
+    return ratios
 
 def main():
     """
