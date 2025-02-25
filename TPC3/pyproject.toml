@@ -1,0 +1,14 @@
+[project]
+name="ftk"
+version="0.1.0"
+authors=[{name="Edu", email="43eduardo43@gmail.com"}]
+description=""" """
+dependencies=["jjcli"]
+license={text="MIT"}
+
+[project.scripts]
+ftk-occ="ftk.base:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
