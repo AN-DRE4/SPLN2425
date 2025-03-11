@@ -1,0 +1,10 @@
+[project]
+name="ftk"
+version="0.1.0"
+authors=[{name="André Alves", email="alvescastroandre40@gmail.com"}]
+description=""" """
+license={text="MIT"}
+dependencies=["jjcli"]
+
+[project.scripts]
+ftk-occ="ftk.base:main"
